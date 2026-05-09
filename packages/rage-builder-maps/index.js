@@ -11,15 +11,23 @@ let createdObjects = [];
 
 module.exports = { reloadMaps };
 
-mp.events.add('packagesLoaded', () =>
-{
-    reloadMaps();
-});
+if (isMpAvailable()) {
+    mp.events.add('packagesLoaded', () =>
+    {
+        reloadMaps();
+    });
+}
 
 
 function reloadMaps(excludeMapName = false){
+    if (!isMpAvailable()) return;
+
     removeAllObjects();
     fs.readdir(__dirname, (err, files) => {
+        if(err){
+            return console.log('Maps directory read error: ' + err);
+        }
+
         files.forEach(fileName => {
             if( getExtension(fileName) != 'json') return;
             if( excludeMapName && fileName == excludeMapName + '.json') return;
@@ -63,4 +71,8 @@ function placeObject(element){
 
 function getExtension(fileName){
     return fileName.split('.').pop();
+}
+
+function isMpAvailable(){
+    return typeof mp !== 'undefined' && mp && mp.events && mp.objects;
 }

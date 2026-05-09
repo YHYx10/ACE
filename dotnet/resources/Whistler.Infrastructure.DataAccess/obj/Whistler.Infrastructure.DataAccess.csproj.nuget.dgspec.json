@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ASTRO\\dotnet\\resources\\Whistler.Infrastructure.DataAccess\\Whistler.Infrastructure.DataAccess.csproj": {}
+    "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Infrastructure.DataAccess\\Whistler.Infrastructure.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\ASTRO\\dotnet\\resources\\Whistler.Domain\\Whistler.Domain.csproj": {
+    "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Domain\\Whistler.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ASTRO\\dotnet\\resources\\Whistler.Domain\\Whistler.Domain.csproj",
+        "projectUniqueName": "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Domain\\Whistler.Domain.csproj",
         "projectName": "Whistler.Domain",
-        "projectPath": "C:\\ASTRO\\dotnet\\resources\\Whistler.Domain\\Whistler.Domain.csproj",
+        "projectPath": "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Domain\\Whistler.Domain.csproj",
         "packagesPath": "C:\\Users\\Bar\\.nuget\\packages\\",
-        "outputPath": "C:\\ASTRO\\dotnet\\resources\\Whistler.Domain\\obj\\",
+        "outputPath": "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\ASTRO\\dotnet\\resources\\Whistler.Infrastructure.Common\\Whistler.Infrastructure.Common.csproj": {
+    "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Infrastructure.Common\\Whistler.Infrastructure.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ASTRO\\dotnet\\resources\\Whistler.Infrastructure.Common\\Whistler.Infrastructure.Common.csproj",
+        "projectUniqueName": "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Infrastructure.Common\\Whistler.Infrastructure.Common.csproj",
         "projectName": "Whistler.Infrastructure.Common",
-        "projectPath": "C:\\ASTRO\\dotnet\\resources\\Whistler.Infrastructure.Common\\Whistler.Infrastructure.Common.csproj",
+        "projectPath": "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Infrastructure.Common\\Whistler.Infrastructure.Common.csproj",
         "packagesPath": "C:\\Users\\Bar\\.nuget\\packages\\",
-        "outputPath": "C:\\ASTRO\\dotnet\\resources\\Whistler.Infrastructure.Common\\obj\\",
+        "outputPath": "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Infrastructure.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -156,14 +156,14 @@
         }
       }
     },
-    "C:\\ASTRO\\dotnet\\resources\\Whistler.Infrastructure.DataAccess\\Whistler.Infrastructure.DataAccess.csproj": {
+    "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Infrastructure.DataAccess\\Whistler.Infrastructure.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ASTRO\\dotnet\\resources\\Whistler.Infrastructure.DataAccess\\Whistler.Infrastructure.DataAccess.csproj",
+        "projectUniqueName": "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Infrastructure.DataAccess\\Whistler.Infrastructure.DataAccess.csproj",
         "projectName": "Whistler.Infrastructure.DataAccess",
-        "projectPath": "C:\\ASTRO\\dotnet\\resources\\Whistler.Infrastructure.DataAccess\\Whistler.Infrastructure.DataAccess.csproj",
+        "projectPath": "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Infrastructure.DataAccess\\Whistler.Infrastructure.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Bar\\.nuget\\packages\\",
-        "outputPath": "C:\\ASTRO\\dotnet\\resources\\Whistler.Infrastructure.DataAccess\\obj\\",
+        "outputPath": "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Infrastructure.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -180,11 +180,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\ASTRO\\dotnet\\resources\\Whistler.Domain\\Whistler.Domain.csproj": {
-                "projectPath": "C:\\ASTRO\\dotnet\\resources\\Whistler.Domain\\Whistler.Domain.csproj"
+              "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Domain\\Whistler.Domain.csproj": {
+                "projectPath": "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Domain\\Whistler.Domain.csproj"
               },
-              "C:\\ASTRO\\dotnet\\resources\\Whistler.Infrastructure.Common\\Whistler.Infrastructure.Common.csproj": {
-                "projectPath": "C:\\ASTRO\\dotnet\\resources\\Whistler.Infrastructure.Common\\Whistler.Infrastructure.Common.csproj"
+              "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Infrastructure.Common\\Whistler.Infrastructure.Common.csproj": {
+                "projectPath": "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Infrastructure.Common\\Whistler.Infrastructure.Common.csproj"
               }
             }
           }

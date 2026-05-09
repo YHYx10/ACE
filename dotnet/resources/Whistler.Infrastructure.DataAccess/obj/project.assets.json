@@ -1224,11 +1224,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ASTRO\\dotnet\\resources\\Whistler.Infrastructure.DataAccess\\Whistler.Infrastructure.DataAccess.csproj",
+      "projectUniqueName": "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Infrastructure.DataAccess\\Whistler.Infrastructure.DataAccess.csproj",
       "projectName": "Whistler.Infrastructure.DataAccess",
-      "projectPath": "C:\\ASTRO\\dotnet\\resources\\Whistler.Infrastructure.DataAccess\\Whistler.Infrastructure.DataAccess.csproj",
+      "projectPath": "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Infrastructure.DataAccess\\Whistler.Infrastructure.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Bar\\.nuget\\packages\\",
-      "outputPath": "C:\\ASTRO\\dotnet\\resources\\Whistler.Infrastructure.DataAccess\\obj\\",
+      "outputPath": "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Infrastructure.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1245,11 +1245,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\ASTRO\\dotnet\\resources\\Whistler.Domain\\Whistler.Domain.csproj": {
-              "projectPath": "C:\\ASTRO\\dotnet\\resources\\Whistler.Domain\\Whistler.Domain.csproj"
+            "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Domain\\Whistler.Domain.csproj": {
+              "projectPath": "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Domain\\Whistler.Domain.csproj"
             },
-            "C:\\ASTRO\\dotnet\\resources\\Whistler.Infrastructure.Common\\Whistler.Infrastructure.Common.csproj": {
-              "projectPath": "C:\\ASTRO\\dotnet\\resources\\Whistler.Infrastructure.Common\\Whistler.Infrastructure.Common.csproj"
+            "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Infrastructure.Common\\Whistler.Infrastructure.Common.csproj": {
+              "projectPath": "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Infrastructure.Common\\Whistler.Infrastructure.Common.csproj"
             }
           }
         }

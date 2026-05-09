@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ASTRO\\dotnet\\resources\\Whistler.Infrastructure.Common\\Whistler.Infrastructure.Common.csproj": {}
+    "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Infrastructure.Common\\Whistler.Infrastructure.Common.csproj": {}
   },
   "projects": {
-    "C:\\ASTRO\\dotnet\\resources\\Whistler.Infrastructure.Common\\Whistler.Infrastructure.Common.csproj": {
+    "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Infrastructure.Common\\Whistler.Infrastructure.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ASTRO\\dotnet\\resources\\Whistler.Infrastructure.Common\\Whistler.Infrastructure.Common.csproj",
+        "projectUniqueName": "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Infrastructure.Common\\Whistler.Infrastructure.Common.csproj",
         "projectName": "Whistler.Infrastructure.Common",
-        "projectPath": "C:\\ASTRO\\dotnet\\resources\\Whistler.Infrastructure.Common\\Whistler.Infrastructure.Common.csproj",
+        "projectPath": "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Infrastructure.Common\\Whistler.Infrastructure.Common.csproj",
         "packagesPath": "C:\\Users\\Bar\\.nuget\\packages\\",
-        "outputPath": "C:\\ASTRO\\dotnet\\resources\\Whistler.Infrastructure.Common\\obj\\",
+        "outputPath": "C:\\ACE ROLEPLAY\\ACE\\dotnet\\resources\\Whistler.Infrastructure.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bar\\AppData\\Roaming\\NuGet\\NuGet.Config",
