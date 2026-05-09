@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ban Screen</title>
+    <style>
+        body {
+        margin: 0;
+        padding: 0;
+        background: url('bg.png') no-repeat center center fixed;
+        background-size: cover;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        color: white;
+        font-family: Arial, sans-serif;
+        overflow: hidden;
+        }
+
+        #banContainer {
+            text-align: center;
+            animation: fadeIn 1s ease-out;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        .logo-image {
+            width: 100px;
+            height: 51px;
+            margin-bottom: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+</head>
+<body>
+    <div id="banContainer">
+        <div class="logo-image">
+            <img src="logo.png" alt="Logo" width="100" height="51">
+        </div>
+        <h1>DU WURDEST GEBANNT</h1>
+        <p><b>Spieler Name:</b> <span id="playerName"></span></p>
+        <p><b>Admin Name:</b> <span id="adminName"></span></p>
+        <p><b>Grund:</b> <span id="reason"></span></p>
+        <p><b>Du bist noch </b> <span id="daysLeft"></span> <b>Tag(e) gebannt</b></p>
+        <p><b>Bann Datum:</b> <span id="banDate"></span></p>
+    </div>
+    <script>
+        function showBanScreen(targetPlayer, adminName, reason, daysLeft, banDate) {
+            document.getElementById('playerName').textContent = targetPlayer;
+            document.getElementById('adminName').textContent = adminName;
+            document.getElementById('reason').textContent = reason;
+            document.getElementById('daysLeft').textContent = daysLeft;
+            document.getElementById('banDate').textContent = banDate;
+        }
+    </script>
+    
+</body>
+</html>

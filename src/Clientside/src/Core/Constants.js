@@ -1,0 +1,1 @@
+export const WEAPON_FIST = 2725352035;

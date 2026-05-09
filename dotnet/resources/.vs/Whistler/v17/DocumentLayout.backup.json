@@ -1,0 +1,483 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\core\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\core\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\core\\promocodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\core\\promocodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\core\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\core\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\core\\admins\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\core\\admins\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\businesses\\manager\\businessevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\businesses\\manager\\businessevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\sdk\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\sdk\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\core\\naccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\core\\naccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Downloads\\server-files\\server-files\\conf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\vehiclesystem\\models\\configs\\vehicleconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\vehiclesystem\\models\\configs\\vehicleconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\fishing\\fishshops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\fishing\\fishshops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\entities\\extped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\entities\\extped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\core\\reportsystem\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\core\\reportsystem\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\core\\reportsystem\\reportenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\core\\reportsystem\\reportenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\core\\reportsystem\\reportconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\core\\reportsystem\\reportconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\core\\safezone\\safezonemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\core\\safezone\\safezonemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\core\\safezone\\safezonemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\core\\safezone\\safezonemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\helpers\\clientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\helpers\\clientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\anticheat\\anticheatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\anticheat\\anticheatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\inventory\\models\\equip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\inventory\\models\\equip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Equip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\inventory\\equipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\inventory\\equipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\fractions\\ems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\fractions\\ems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\mp\\arena\\adminevents\\admingameeventsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\mp\\arena\\adminevents\\admingameeventsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\businesses\\barbershop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\businesses\\barbershop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\casino\\business\\casino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\casino\\business\\casino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\casino\\business\\cashboxstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\casino\\business\\cashboxstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\startquest\\queststages\\stage2getrentvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\startquest\\queststages\\stage2getrentvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|c:\\users\\administrator\\desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\whistler\\startquest\\startquestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C862D4F-7204-4A68-9BC0-2AC9141F20CC}|Whistler\\Whistler.csproj|solutionrelative:whistler\\startquest\\startquestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PromoCodeService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Core\\PromoCodeService.cs",
+              "RelativeDocumentMoniker": "Whistler\\Core\\PromoCodeService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Core\\PromoCodeService.cs",
+              "RelativeToolTip": "Whistler\\Core\\PromoCodeService.cs",
+              "ViewState": "AgIAABkBAAAAAAAAAAASwC0BAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:48:23.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Core\\Chat.cs",
+              "RelativeDocumentMoniker": "Whistler\\Core\\Chat.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Core\\Chat.cs",
+              "RelativeToolTip": "Whistler\\Core\\Chat.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAiwBIBAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:45:50.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BusinessEvents.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Businesses\\Manager\\BusinessEvents.cs",
+              "RelativeDocumentMoniker": "Whistler\\Businesses\\Manager\\BusinessEvents.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Businesses\\Manager\\BusinessEvents.cs",
+              "RelativeToolTip": "Whistler\\Businesses\\Manager\\BusinessEvents.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAADgv6oAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:21:46.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\SDK\\Character.cs",
+              "RelativeDocumentMoniker": "Whistler\\SDK\\Character.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\SDK\\Character.cs",
+              "RelativeToolTip": "Whistler\\SDK\\Character.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAYwLIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T20:44:03.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "nAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Core\\nAccount.cs",
+              "RelativeDocumentMoniker": "Whistler\\Core\\nAccount.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Core\\nAccount.cs",
+              "RelativeToolTip": "Whistler\\Core\\nAccount.cs",
+              "ViewState": "AgIAADcBAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T20:42:02.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "conf.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\server-files\\server-files\\conf.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Downloads\\server-files\\server-files\\conf.json",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\server-files\\server-files\\conf.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Downloads\\server-files\\server-files\\conf.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T18:14:35.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Main.cs",
+              "RelativeDocumentMoniker": "Whistler\\Main.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Main.cs",
+              "RelativeToolTip": "Whistler\\Main.cs",
+              "ViewState": "AgIAAOEBAAAAzczMzEwwwL4CAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T17:52:57.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FishShops.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Fishing\\FishShops.cs",
+              "RelativeDocumentMoniker": "Whistler\\Fishing\\FishShops.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Fishing\\FishShops.cs",
+              "RelativeToolTip": "Whistler\\Fishing\\FishShops.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:36:37.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExtPed.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Entities\\ExtPed.cs",
+              "RelativeDocumentMoniker": "Whistler\\Entities\\ExtPed.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Entities\\ExtPed.cs",
+              "RelativeToolTip": "Whistler\\Entities\\ExtPed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:36:35.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReportManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Core\\ReportSystem\\ReportManager.cs",
+              "RelativeDocumentMoniker": "Whistler\\Core\\ReportSystem\\ReportManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Core\\ReportSystem\\ReportManager.cs",
+              "RelativeToolTip": "Whistler\\Core\\ReportSystem\\ReportManager.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T00:19:24.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReportEnums.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Core\\ReportSystem\\ReportEnums.cs",
+              "RelativeDocumentMoniker": "Whistler\\Core\\ReportSystem\\ReportEnums.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Core\\ReportSystem\\ReportEnums.cs",
+              "RelativeToolTip": "Whistler\\Core\\ReportSystem\\ReportEnums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T00:19:19.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Commands.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Core\\Commands.cs",
+              "RelativeDocumentMoniker": "Whistler\\Core\\Commands.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Core\\Commands.cs",
+              "RelativeToolTip": "Whistler\\Core\\Commands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:14:38.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportConfigs.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Core\\ReportSystem\\ReportConfigs.cs",
+              "RelativeDocumentMoniker": "Whistler\\Core\\ReportSystem\\ReportConfigs.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Core\\ReportSystem\\ReportConfigs.cs",
+              "RelativeToolTip": "Whistler\\Core\\ReportSystem\\ReportConfigs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T00:19:19.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SafeZoneModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Core\\SafeZone\\SafeZoneModel.cs",
+              "RelativeDocumentMoniker": "Whistler\\Core\\SafeZone\\SafeZoneModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Core\\SafeZone\\SafeZoneModel.cs",
+              "RelativeToolTip": "Whistler\\Core\\SafeZone\\SafeZoneModel.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T00:05:10.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Core\\Admins\\Admin.cs",
+              "RelativeDocumentMoniker": "Whistler\\Core\\Admins\\Admin.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Core\\Admins\\Admin.cs",
+              "RelativeToolTip": "Whistler\\Core\\Admins\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsFAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T20:51:58.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SafeZoneManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Core\\SafeZone\\SafeZoneManager.cs",
+              "RelativeDocumentMoniker": "Whistler\\Core\\SafeZone\\SafeZoneManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Core\\SafeZone\\SafeZoneManager.cs",
+              "RelativeToolTip": "Whistler\\Core\\SafeZone\\SafeZoneManager.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T00:04:57.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClientExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Helpers\\ClientExtensions.cs",
+              "RelativeDocumentMoniker": "Whistler\\Helpers\\ClientExtensions.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Helpers\\ClientExtensions.cs",
+              "RelativeToolTip": "Whistler\\Helpers\\ClientExtensions.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T00:01:48.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Equip.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Inventory\\Models\\Equip.cs",
+              "RelativeDocumentMoniker": "Whistler\\Inventory\\Models\\Equip.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Inventory\\Models\\Equip.cs",
+              "RelativeToolTip": "Whistler\\Inventory\\Models\\Equip.cs",
+              "ViewState": "AgIAANwBAAAAAAAAAAAgwC4CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:22:54.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VehicleConfigs.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\VehicleSystem\\Models\\Configs\\VehicleConfigs.cs",
+              "RelativeDocumentMoniker": "Whistler\\VehicleSystem\\Models\\Configs\\VehicleConfigs.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\VehicleSystem\\Models\\Configs\\VehicleConfigs.cs",
+              "RelativeToolTip": "Whistler\\VehicleSystem\\Models\\Configs\\VehicleConfigs.cs",
+              "ViewState": "AgIAAO8EAAAAAAAAAADwvwMFAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:18:56.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EquipService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Inventory\\EquipService.cs",
+              "RelativeDocumentMoniker": "Whistler\\Inventory\\EquipService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Inventory\\EquipService.cs",
+              "RelativeToolTip": "Whistler\\Inventory\\EquipService.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAqwGAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:58:55.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Ems.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Fractions\\Ems.cs",
+              "RelativeDocumentMoniker": "Whistler\\Fractions\\Ems.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Fractions\\Ems.cs",
+              "RelativeToolTip": "Whistler\\Fractions\\Ems.cs",
+              "ViewState": "AgIAAGABAAAAAAAAAAAmwHEBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T20:53:24.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminGameEventsManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\MP\\Arena\\AdminEvents\\AdminGameEventsManager.cs",
+              "RelativeDocumentMoniker": "Whistler\\MP\\Arena\\AdminEvents\\AdminGameEventsManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\MP\\Arena\\AdminEvents\\AdminGameEventsManager.cs",
+              "RelativeToolTip": "Whistler\\MP\\Arena\\AdminEvents\\AdminGameEventsManager.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwCoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:59:49.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BarberShop.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Businesses\\BarberShop.cs",
+              "RelativeDocumentMoniker": "Whistler\\Businesses\\BarberShop.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Businesses\\BarberShop.cs",
+              "RelativeToolTip": "Whistler\\Businesses\\BarberShop.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAmwE4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:51:03.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Casino.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Casino\\Business\\Casino.cs",
+              "RelativeDocumentMoniker": "Whistler\\Casino\\Business\\Casino.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Casino\\Business\\Casino.cs",
+              "RelativeToolTip": "Whistler\\Casino\\Business\\Casino.cs",
+              "ViewState": "AgIAAFcBAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:45:39.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CashBoxState.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Casino\\Business\\CashBoxState.cs",
+              "RelativeDocumentMoniker": "Whistler\\Casino\\Business\\CashBoxState.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\Casino\\Business\\CashBoxState.cs",
+              "RelativeToolTip": "Whistler\\Casino\\Business\\CashBoxState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:45:38.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Stage2GetRentVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\StartQuest\\QuestStages\\Stage2GetRentVehicle.cs",
+              "RelativeDocumentMoniker": "Whistler\\StartQuest\\QuestStages\\Stage2GetRentVehicle.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\StartQuest\\QuestStages\\Stage2GetRentVehicle.cs",
+              "RelativeToolTip": "Whistler\\StartQuest\\QuestStages\\Stage2GetRentVehicle.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:53:35.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AntiCheatService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\AntiCheat\\AntiCheatService.cs",
+              "RelativeDocumentMoniker": "Whistler\\AntiCheat\\AntiCheatService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\AntiCheat\\AntiCheatService.cs",
+              "RelativeToolTip": "Whistler\\AntiCheat\\AntiCheatService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T23:12:31.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Equip.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Equip.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Equip.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Equip.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Equip.cs",
+              "ViewState": "AgIAABACAAAAAAAAAAAkwCwCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:35:45.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StartQuestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\StartQuest\\StartQuestSettings.cs",
+              "RelativeDocumentMoniker": "Whistler\\StartQuest\\StartQuestSettings.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\astro-roleplay\\astro-roleplay\\server-files\\dotnet\\resources\\Whistler\\StartQuest\\StartQuestSettings.cs",
+              "RelativeToolTip": "Whistler\\StartQuest\\StartQuestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:48:21.489Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

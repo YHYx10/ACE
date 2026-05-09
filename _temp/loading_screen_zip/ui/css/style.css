@@ -1,0 +1,1192 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+
+body {
+  overflow: hidden;
+}
+
+.background-img {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -2;
+}
+.background-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+iframe {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.img-preview {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.5);
+}
+.img-preview img {
+  width: 50vw;
+  object-fit: contain;
+}
+
+main {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  background: radial-gradient(19.69% 39.57% at -0.52% 0%, rgba(88, 255, 245, 0.12) 0%, rgba(88, 255, 245, 0) 100%), radial-gradient(30.93% 28.89% at 50% 0%, rgba(88, 255, 245, 0.26) 0%, rgba(88, 255, 245, 0) 100%);
+}
+main .bg-overlay {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  background: linear-gradient(270deg, rgba(3, 14, 15, 0.9) 0%, rgba(3, 14, 15, 0) 37.34%), linear-gradient(90deg, rgba(3, 14, 15, 0.9) 0%, rgba(3, 14, 15, 0) 31.15%);
+}
+main .keyboard-section {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 9999;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(5.1px);
+  padding: 5vw;
+  padding-right: 0;
+  display: none;
+  gap: 5vw;
+}
+main .keyboard-section .keys-wrapper {
+  width: calc(33% - 5vw);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  overflow-y: scroll;
+}
+main .keyboard-section .keys-wrapper::-webkit-scrollbar {
+  width: 0px;
+}
+main .keyboard-section .keys-wrapper .key-inform {
+  padding: 2vw;
+  width: 100%;
+  background: linear-gradient(240deg, rgba(88, 255, 245, 0.252) 0%, rgba(88, 255, 245, 0) 115.23%);
+  display: flex;
+  align-items: center;
+  gap: 1vw;
+}
+main .keyboard-section .keys-wrapper .key-inform .title-wrapper {
+  width: calc(100% - 5vw);
+}
+main .keyboard-section .keys-wrapper .key-inform .title-wrapper .title {
+  font-family: "Poppins";
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 27px;
+  color: rgba(255, 255, 255, 0.79);
+}
+main .keyboard-section .keys-wrapper .key-inform .title-wrapper .desc {
+  font-family: "Poppins";
+  font-weight: 300;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.51);
+}
+main .keyboard-section .keys-wrapper .key-inform .key {
+  background: rgba(88, 255, 245, 0.18);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  backdrop-filter: blur(7.50668px);
+  border-radius: 7.62296px;
+  width: 4vw;
+  height: 4vw;
+  display: flex;
+  align-items: end;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 22px;
+  color: rgba(255, 255, 255, 0.63);
+}
+main .keyboard-section .keyboard-wrapper {
+  width: 67%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+main .keyboard-section .main-title {
+  background: linear-gradient(90deg, rgba(88, 255, 245, 0.252) 0%, rgba(88, 255, 245, 0) 115.23%);
+  border-radius: 7px;
+  font-family: "Integral CF";
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 36px;
+  color: rgba(255, 255, 255, 0.74);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.7vh 0 2vh 0;
+}
+main .keyboard-section .keyboard {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+main .keyboard-section .keyboard .row {
+  display: flex;
+  gap: 4px;
+  height: 7vh;
+}
+main .keyboard-section .keyboard .row .key {
+  background: rgba(255, 255, 255, 0.18);
+  backdrop-filter: blur(6.8px);
+  border-radius: 6.90534px;
+  width: 6%;
+  height: 100%;
+  display: flex;
+  align-items: end;
+  justify-content: start;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 22.0971px;
+  line-height: 27px;
+  color: rgba(255, 255, 255, 0.63);
+}
+main .keyboard-section .keyboard .row .key.active {
+  background: rgba(88, 255, 245, 0.3);
+}
+main .keyboard-section .keyboard .row .key.mid {
+  width: calc(12% + 4px);
+}
+main .keyboard-section .keyboard .row .key.mid-2 {
+  width: calc(9% + 3px);
+}
+main .keyboard-section .keyboard .row .key.big {
+  width: calc(18% + 8px);
+}
+main .keyboard-section .keyboard .row .key.space {
+  width: calc(42% + 20px);
+}
+main .keyboard-section .information-wrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  overflow-y: scroll;
+  height: 100%;
+}
+main .keyboard-section .information-wrapper::-webkit-scrollbar {
+  width: 0px;
+}
+main .keyboard-section .information-wrapper .title {
+  font-family: "Poppins";
+  font-weight: 600;
+  font-size: 30px;
+  color: rgba(255, 255, 255, 0.79);
+}
+main .keyboard-section .information-wrapper .desc {
+  font-family: "Poppins";
+  font-size: 24px;
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.51);
+}
+main .loading-bar {
+  position: absolute;
+  bottom: 2vh;
+  right: 2vw;
+  width: fit-content;
+}
+main .loading-bar .will-load {
+  position: absolute;
+  left: 0;
+}
+main .loading-bar .text-wrapper {
+  position: absolute;
+  right: 1%;
+  top: 30%;
+  font-family: "Poppins";
+  font-size: 15.5556px;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.76);
+  line-height: 100%;
+}
+main .loading-bar .percent {
+  font-family: "Integral CF";
+  font-weight: 500;
+  font-size: 38.3294px;
+  color: #FFFFFF;
+  line-height: 100%;
+}
+main .loading-bar .text {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(255, 255, 255, 0.21);
+  border-radius: 1px;
+  font-family: "Poppins";
+  font-size: 11.5385px;
+  color: #FFFFFF;
+  bottom: -15px;
+  padding: 0 5px;
+}
+main .center {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 1vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  background: linear-gradient(180deg, rgba(88, 255, 245, 0.207) 0%, rgba(88, 255, 245, 0) 131.89%);
+  border-radius: 0px 0px 17px 17px;
+}
+main .center .title {
+  font-family: "Poppins";
+  color: #fff;
+  font-size: 17px;
+}
+main .center .buttons {
+  display: flex;
+  gap: 10px;
+}
+main .center .buttons .button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #fff;
+  background: radial-gradient(42.05% 100% at 50.15% 0%, rgba(255, 255, 255, 0.116) 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(90.61deg, rgba(255, 255, 255, 0.16) 0.53%, rgba(255, 255, 255, 0) 128%);
+  backdrop-filter: blur(26.1px);
+  border-radius: 5px;
+  cursor: pointer;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  min-width: 5.5vw;
+  min-height: 7vh;
+}
+main .center .buttons .button .title {
+  font-size: 14px;
+}
+main .center .buttons .button .icon {
+  display: flex;
+  height: 25px;
+}
+main .center .buttons .button:hover {
+  background: radial-gradient(42.05% 100% at 50.15% 0%, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0.2) 100%), linear-gradient(90.61deg, rgba(255, 255, 255, 0.16) 0.53%, rgba(255, 255, 255, 0) 128%);
+}
+main .left {
+  position: absolute;
+  left: 1vw;
+  top: 1vh;
+  width: 20vw;
+  height: 98vh;
+  background: rgba(255, 255, 255, 0.04);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+main .left .logo-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  height: 15%;
+  width: 100%;
+}
+main .left .logo-wrapper .logo-box {
+  width: 4vw;
+  height: 4vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: radial-gradient(42.05% 100% at 50.15% 0%, rgba(255, 255, 255, 0.116) 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(90.61deg, rgba(255, 255, 255, 0.16) 0.53%, rgba(255, 255, 255, 0) 128%);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+  padding: 4px;
+}
+main .left .logo-wrapper .logo-box img{
+  width: 100%;
+  max-height: 100%;
+}
+main .left .logo-wrapper .title-wrapper {
+  padding-bottom: 20px;
+}
+main .left .logo-wrapper .title {
+  font-family: "Integral CF";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 38.3294px;
+  background: linear-gradient(132.72deg, #58FFF5 20.57%, #00CCC0 74%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+main .left .logo-wrapper .subtitle {
+  font-family: "NATURE_BEAUTY_PERSONAL_USE";
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+  line-height: 50%;
+}
+main .left .displaced {
+  background: linear-gradient(90deg, rgba(88, 255, 245, 0.252) 0%, rgba(88, 255, 245, 0) 115.23%);
+  padding: 1vw 1vw 1vw 2vw;
+  width: 130%;
+  transform: translateX(-1vw);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+main .left .displaced .title-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+main .left .displaced .title-wrapper .icon {
+  display: flex;
+}
+main .left .displaced .title-wrapper .title {
+  font-family: "Integral CF";
+  font-size: 17.1039px;
+  color: rgba(255, 255, 255, 0.72);
+  line-height: 100%;
+  padding-bottom: 4px;
+}
+main .left .displaced .social-box {
+  border-radius: 4px;
+  width: 100%;
+  display: flex;
+  gap: 10px;
+  border: 1px solid rgba(142, 208, 255, 0.1);
+  align-items: center;
+  transition: all 0.2s;
+  position: relative;
+}
+main .left .displaced .social-box .icon-2 {
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+main .left .displaced .social-box.discord {
+  background: radial-gradient(42.05% 100% at 50.15% 0%, rgba(142, 208, 255, 0.116) 0%, rgba(142, 208, 255, 0) 100%), linear-gradient(90.61deg, rgba(142, 208, 255, 0.08) 0.53%, rgba(142, 208, 255, 0) 128%);
+}
+main .left .displaced .social-box.discord .title {
+  color: rgba(142, 208, 255, 0.9);
+}
+main .left .displaced .social-box.discord .desc {
+  color: rgba(177, 223, 255, 0.74);
+}
+main .left .displaced .social-box.discord .icon {
+  background: rgba(142, 208, 255, 0.08);
+}
+main .left .displaced .social-box.discord:hover {
+  cursor: pointer;
+  width: 120%;
+  background: radial-gradient(42.05% 100% at 50.15% 0%, rgba(142, 208, 255, 0.3) 0%, rgba(142, 208, 255, 0) 100%), linear-gradient(90.61deg, rgba(142, 208, 255, 0.15) 0.53%, rgba(142, 208, 255, 0) 128%);
+}
+main .left .displaced .social-box.instagram {
+  background: radial-gradient(42.05% 100% at 50.15% 0%, rgba(203, 185, 255, 0.116) 0%, rgba(203, 185, 255, 0) 100%), linear-gradient(90.61deg, rgba(203, 185, 255, 0.08) 0.53%, rgba(203, 185, 255, 0) 128%);
+  border: 1px solid rgba(203, 185, 255, 0.1);
+}
+main .left .displaced .social-box.instagram .title {
+  color: rgba(203, 185, 255, 0.9);
+}
+main .left .displaced .social-box.instagram .desc {
+  color: rgba(216, 202, 255, 0.74);
+}
+main .left .displaced .social-box.instagram .icon {
+  background: rgba(203, 185, 255, 0.08);
+}
+main .left .displaced .social-box.instagram:hover {
+  cursor: pointer;
+  width: 120%;
+  background: radial-gradient(42.05% 100% at 50.15% 0%, rgba(203, 185, 255, 0.3) 0%, rgba(203, 185, 255, 0) 100%), linear-gradient(90.61deg, rgba(203, 185, 255, 0.15) 0.53%, rgba(203, 185, 255, 0) 128%);
+}
+main .left .displaced .social-box.youtube {
+  background: radial-gradient(42.05% 100% at 50.15% 0%, rgba(255, 206, 206, 0.116) 0%, rgba(255, 206, 206, 0) 100%), linear-gradient(90.61deg, rgba(255, 206, 206, 0.08) 0.53%, rgba(255, 206, 206, 0) 128%);
+}
+main .left .displaced .social-box.youtube .title {
+  color: rgba(255, 206, 206, 0.9);
+}
+main .left .displaced .social-box.youtube .desc {
+  color: rgba(255, 206, 206, 0.74);
+}
+main .left .displaced .social-box.youtube .icon {
+  background: rgba(255, 206, 206, 0.08);
+}
+main .left .displaced .social-box.youtube:hover {
+  cursor: pointer;
+  width: 120%;
+  background: radial-gradient(42.05% 100% at 50.15% 0%, rgba(255, 206, 206, 0.3) 0%, rgba(255, 206, 206, 0) 100%), linear-gradient(90.61deg, rgba(255, 206, 206, 0.15) 0.53%, rgba(255, 206, 206, 0) 128%);
+}
+main .left .displaced .social-box .icon {
+  width: 79px;
+  height: 79px;
+  border-radius: 4px 0px 0px 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+main .left .displaced .social-box .title-box {
+  width: calc(100% - 109px);
+}
+main .left .displaced .social-box .title-box .title {
+  font-family: "Integral CF";
+  font-size: 20px;
+}
+main .left .displaced .social-box .title-box .desc {
+  font-family: "Barlow";
+  line-height: 110%;
+}
+main .left .displaced .scroll-r {
+  position: absolute;
+  right: -3%;
+  top: 50%;
+  cursor: pointer;
+  z-index: 999;
+  opacity: 0.5;
+}
+main .left .displaced .scroll-r:hover {
+  opacity: 1;
+}
+main .left .displaced .scroll-l {
+  position: absolute;
+  left: 1%;
+  top: 50%;
+  cursor: pointer;
+  z-index: 999;
+  opacity: 0.5;
+}
+main .left .displaced .scroll-l:hover {
+  opacity: 1;
+}
+main .left .displaced .gallery-wrapper {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+main .left .displaced .gallery-wrapper .scroll {
+  width: fit-content;
+  display: flex;
+  gap: 10px;
+  transition: all 0.2s;
+}
+main .left .displaced .gallery-wrapper .gallery-box {
+  width: 5vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 20vh;
+  overflow: hidden;
+  border-radius: 3px;
+  float: left;
+  transition: all 0.2s;
+}
+main .left .displaced .gallery-wrapper .gallery-box:hover {
+  width: 10vw;
+}
+main .left .displaced .gallery-wrapper .gallery-box:hover .img::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0);
+  z-index: 10;
+}
+main .left .displaced .gallery-wrapper .gallery-box .img {
+  position: relative;
+  cursor: pointer;
+  height: 100%;
+}
+main .left .displaced .gallery-wrapper .gallery-box .img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: all 0.2s;
+}
+main .left .displaced .gallery-wrapper .gallery-box .img::after {
+  transition: all 0.2s;
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 10;
+}
+main .left .displaced .rules-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-height: 18vh;
+  overflow-y: scroll;
+}
+main .left .displaced .rules-wrapper::-webkit-scrollbar {
+  width: 0px;
+}
+main .left .displaced .rules-wrapper .rule {
+  background: radial-gradient(42.05% 100% at 50.15% 0%, rgba(255, 255, 255, 0.116) 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(90.61deg, rgba(255, 255, 255, 0.08) 0.53%, rgba(255, 255, 255, 0) 128%);
+  border-radius: 5px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+main .left .displaced .rules-wrapper .rule .title {
+  background: radial-gradient(42.05% 100% at 50.15% 0%, rgba(255, 255, 255, 0.116) 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(90.61deg, rgba(255, 255, 255, 0.08) 0.53%, rgba(255, 255, 255, 0) 128%);
+  border-radius: 5px 5px 0px 0px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  text-align: center;
+  font-family: "Poppins";
+  font-size: 12.5429px;
+  color: #FFFFFF;
+  font-weight: 300;
+}
+main .left .displaced .rules-wrapper .rule .desc-wrapper {
+  padding: 0.5vw 0.7vw;
+}
+main .left .displaced .rules-wrapper .rule .desc-wrapper .title-2 {
+  font-family: "Poppins";
+  font-weight: 600;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+main .left .displaced .rules-wrapper .rule .desc-wrapper .desc {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  line-height: 116%;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.6);
+}
+main .right {
+  position: absolute;
+  right: 1vw;
+  top: 1vh;
+  width: 20vw;
+  height: 98vh;
+  background: rgba(255, 255, 255, 0.04);
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  padding-top: 2vh;
+  gap: 3vh;
+}
+main .right .displaced {
+  background: linear-gradient(240deg, rgba(88, 255, 245, 0.252) 0%, rgba(88, 255, 245, 0) 115.23%);
+  padding: 1vw 2vw 1vw 1vw;
+  width: 130%;
+  transform: translateX(1vw);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+main .right .displaced .title-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  gap: 10px;
+}
+main .right .displaced .title-wrapper .icon {
+  display: flex;
+}
+main .right .displaced .title-wrapper .title {
+  font-family: "Integral CF";
+  font-size: 17.1039px;
+  color: rgba(255, 255, 255, 0.72);
+  line-height: 100%;
+  padding-bottom: 4px;
+}
+main .right .displaced .announce-wrapper {
+  position: relative;
+  overflow: hidden;
+}
+main .right .displaced .announce-wrapper .scroll-r {
+  position: absolute;
+  right: 0%;
+  top: 50%;
+  cursor: pointer;
+  z-index: 999;
+  opacity: 0.2;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), rgba(255, 255, 255, 0.1);
+  border-radius: 100px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+main .right .displaced .announce-wrapper .scroll-r:hover {
+  opacity: 1;
+}
+main .right .displaced .announce-wrapper .scroll-l {
+  position: absolute;
+  left: 0%;
+  top: 50%;
+  cursor: pointer;
+  z-index: 999;
+  opacity: 0.2;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), rgba(255, 255, 255, 0.1);
+  border-radius: 100px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+main .right .displaced .announce-wrapper .scroll-l:hover {
+  opacity: 1;
+}
+main .right .displaced .announce-wrapper .scroll {
+  width: fit-content;
+  display: flex;
+}
+main .right .displaced .announce-wrapper .scroll .announce {
+  width: 23vw;
+  background: radial-gradient(42.05% 100% at 50.15% 0%, rgba(255, 255, 255, 0.116) 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(90.61deg, rgba(255, 255, 255, 0.08) 0.53%, rgba(255, 255, 255, 0) 128%);
+  border-radius: 5px;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+main .right .displaced .announce-wrapper .scroll .announce .title {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, 0%);
+  width: calc(100% - 2vw);
+  padding: 3px 1vw;
+  background: rgba(255, 255, 255, 0.09);
+  border-radius: 3px;
+  font-family: "Poppins";
+  font-weight: 600;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+main .right .displaced .announce-wrapper .scroll .announce .image {
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  mask-image: linear-gradient(#000, rgba(0, 0, 0, 0));
+  -webkit-mask-image: linear-gradient(#000, rgba(0, 0, 0, 0));
+}
+main .right .displaced .announce-wrapper .scroll .announce .image img {
+  width: 100%;
+  min-height: 100%;
+}
+main .right .displaced .announce-wrapper .scroll .announce .desc {
+  font-family: "Poppins";
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.64);
+  padding: 1vw;
+}
+main .right .displaced .authors-wrapper {
+  position: relative;
+  overflow: hidden;
+}
+main .right .displaced .authors-wrapper .scroll-r {
+  position: absolute;
+  right: 0%;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  z-index: 999;
+  opacity: 0.2;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), rgba(255, 255, 255, 0.1);
+  border-radius: 100px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+main .right .displaced .authors-wrapper .image{
+  border-radius: 50%;
+  width: 38px;
+  height: 38px;
+  overflow: hidden;
+}
+main .right .displaced .authors-wrapper .image img{
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+}
+main .right .displaced .authors-wrapper .scroll-r:hover {
+  opacity: 1;
+}
+main .right .displaced .authors-wrapper .scroll-l {
+  position: absolute;
+  left: 0%;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  z-index: 999;
+  opacity: 0.2;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), rgba(255, 255, 255, 0.1);
+  border-radius: 100px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+main .right .displaced .authors-wrapper .scroll-l:hover {
+  opacity: 1;
+}
+main .right .displaced .authors-wrapper .scroll {
+  width: fit-content;
+  display: flex;
+  gap: 10px;
+}
+main .right .displaced .authors-wrapper .scroll .author {
+  gap: 5px;
+  width: 5.36vw;
+  padding: 1vh;
+  background: radial-gradient(42.05% 100% at 50.15% 0%, rgba(255, 255, 255, 0.116) 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(90.61deg, rgba(255, 255, 255, 0.16) 0.53%, rgba(255, 255, 255, 0) 128%);
+  border-radius: 3px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-family: "Poppins";
+}
+main .right .displaced .authors-wrapper .scroll .author .name {
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 107%;
+  color: #FFFFFF;
+}
+main .right .displaced .authors-wrapper .scroll .author .rank {
+  font-size: 10px;
+  color: rgba(255, 255, 255, 0.56);
+}
+main .right .displaced .music-player {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+main .right .displaced .music-player .times-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+  opacity: 0.5;
+  font-family: "Poppins";
+  font-size: 12px;
+  margin-top: 5px;
+  line-height: 100%;
+}
+main .right .displaced .music-player .time-input {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 5px;
+  background: rgba(255, 255, 255, 0.26);
+  outline: none;
+  -webkit-transition: 0.2s;
+  transition: opacity 0.2s;
+  border-radius: 3px;
+}
+main .right .displaced .music-player .time-input::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 10px;
+  height: 10px;
+  background: #fff;
+  cursor: pointer;
+  border-radius: 50%;
+}
+main .right .displaced .music-player .volume-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+  font-family: "Poppins";
+  font-size: 12px;
+  margin-top: 5px;
+}
+main .right .displaced .music-player .volume-input {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 3%;
+  background: #d3d3d3;
+  outline: none;
+  -webkit-transition: 0.2s;
+  transition: opacity 0.2s;
+  border-radius: 3px;
+}
+main .right .displaced .music-player .volume-input::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 10px;
+  height: 10px;
+  background: #fff;
+  cursor: pointer;
+  border-radius: 50%;
+}
+main .right .displaced .music-player .bar-wrapper {
+  width: 100%;
+  height: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  background: rgba(255, 255, 255, 0.26);
+  border-radius: 3px;
+  position: relative;
+}
+main .right .displaced .music-player .bar-wrapper .bar-bg {
+  height: 5px;
+  width: 50%;
+  background: rgb(88, 255, 245);
+  border-radius: 3px;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+main .right .displaced .music-player .volume-wrapper {
+  display: flex;
+  justify-content: end;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 10px;
+}
+main .right .displaced .music-player .volume-text {
+  color: #fff;
+  line-height: 100%;
+  background: rgba(255, 255, 255, 0.2);
+  padding: 4px 7px;
+  border-radius: 3px;
+  width: 2.2vw;
+  text-align: center;
+}
+main .right .displaced .music-player .bar-wrapper-2 {
+  width: 50%;
+  height: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  background: rgba(255, 255, 255, 0.26);
+  border-radius: 3px;
+  position: relative;
+}
+main .right .displaced .music-player .bar-wrapper-2 .bar-bg-2 {
+  height: 5px;
+  width: 50%;
+  background: #fff;
+  border-radius: 3px;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+main .right .displaced .music-player .music-details {
+  display: flex;
+  gap: 15px;
+}
+main .right .displaced .music-player .music-details .image {
+  width: 6vw;
+  height: 6vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  border-radius: 3px;
+}
+main .right .displaced .music-player .music-details .image img {
+  height: 100%;
+}
+main .right .displaced .music-player .music-details .title-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+  gap: 10px;
+  width: calc(100% - 6vw - 15px);
+}
+main .right .displaced .music-player .music-details .title-wrapper .top {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+main .right .displaced .music-player .music-details .title-wrapper .top .icon {
+  width: 2.5vw;
+  height: 2.5vw;
+  background: radial-gradient(42.05% 100% at 50.15% 0%, rgba(255, 255, 255, 0.116) 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(90.61deg, rgba(255, 255, 255, 0.16) 0.53%, rgba(255, 255, 255, 0) 128%);
+  border-radius: 3px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+main .right .displaced .music-player .music-details .title-wrapper .top .name-wrapper {
+  line-height: 100%;
+  width: calc(100% - 2.5vw - 10px);
+}
+main .right .displaced .music-player .music-details .title-wrapper .top .name-wrapper .name {
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+  padding-bottom: 5px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 100%;
+}
+main .right .displaced .music-player .music-details .title-wrapper .top .name-wrapper .artist {
+  font-family: "Poppins";
+  font-size: 16px;
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.69);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 100%;
+}
+main .right .displaced .music-player .music-details .title-wrapper .url-wrapper {
+  display: flex;
+  width: 100%;
+  position: relative;
+}
+main .right .displaced .music-player .music-details .title-wrapper .url-wrapper input {
+  width: 100%;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 2px;
+  border: 0;
+  outline: 0;
+  height: 2vw;
+  color: #fff;
+  padding-left: 10px;
+  font-family: "Poppins";
+  padding-right: 3vw;
+}
+main .right .displaced .music-player .music-details .title-wrapper .url-wrapper .icon {
+  width: 2vw;
+  height: 2vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0 3px 3px 0;
+  background: rgba(255, 255, 255, 0.07);
+  position: absolute;
+  right: 0;
+  top: 0;
+  cursor: pointer;
+}
+main .right .displaced .music-player .music-details .title-wrapper .url-wrapper .icon:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+main .right .displaced .music-player .buttons {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: end;
+  gap: 11px;
+}
+main .right .displaced .music-player .buttons .button {
+  background: linear-gradient(132.72deg, rgba(126, 193, 255, 0.15) 20.57%, rgba(140, 200, 255, 0.15) 74%);
+  border: 0.65547px solid rgba(153, 187, 219, 0.2);
+  border-radius: 4.58829px 4.58829px 0px 0px;
+  padding: 10px 10px 5px 10px;
+  cursor: pointer;
+}
+main .right .displaced .music-player .buttons .button#play {
+  display: none;
+}
+main .right .displaced .music-player .buttons .button.centered {
+  background: linear-gradient(132.72deg, rgba(126, 193, 255, 0.34) 20.57%, rgba(140, 200, 255, 0.34) 74%);
+  border: 0.844828px solid rgba(153, 187, 219, 0.4);
+  border-radius: 5.91379px 5.91379px 0px 0px;
+}
+main .right .displaced .music-player .buttons .button:hover {
+  background: linear-gradient(132.72deg, rgba(126, 193, 255, 0.34) 20.57%, rgba(140, 200, 255, 0.34) 74%);
+  border: 0.844828px solid rgba(153, 187, 219, 0.4);
+}
+main.blue {
+  background: radial-gradient(19.69% 39.57% at -0.52% 0%, rgba(115, 179, 255, 0.12) 0%, rgba(115, 179, 255, 0) 100%), radial-gradient(30.93% 28.89% at 50% 0%, rgba(115, 179, 255, 0.26) 0%, rgba(115, 179, 255, 0) 100%);
+}
+main.blue .bg-overlay {
+  background: linear-gradient(270deg, rgba(3, 7, 15, 0.9) 0%, rgba(3, 7, 15, 0) 37.34%), linear-gradient(90deg, rgba(3, 7, 15, 0.9) 0%, rgba(3, 7, 15, 0) 31.15%);
+}
+main.blue .left .displaced {
+  background: linear-gradient(90deg, rgba(115, 179, 255, 0.252) 0%, rgba(115, 179, 255, 0) 115.23%);
+}
+main.blue .right .displaced {
+  background: linear-gradient(240deg, rgba(115, 179, 255, 0.252) 0%, rgba(115, 179, 255, 0) 115.23%);
+}
+main.blue .center {
+  background: linear-gradient(180deg, rgba(115, 179, 255, 0.207) 0%, rgba(115, 179, 255, 0) 131.89%);
+}
+main.blue .main-title {
+  background: linear-gradient(90deg, rgba(115, 179, 255, 0.252) 0%, rgba(115, 179, 255, 0) 115.23%);
+}
+main.blue .keyboard-section .keys-wrapper .key-inform {
+  background: linear-gradient(240deg, rgba(115, 179, 255, 0.252) 0%, rgba(115, 179, 255, 0) 115.23%);
+}
+main.blue .keyboard-section .keyboard-wrapper .keyboard .row .key.active {
+  background: rgba(115, 179, 255, 0.34);
+}
+main.blue .keyboard-section .key-inform .key {
+  background: rgba(115, 179, 255, 0.252);
+}
+main.blue .music-player .bar-bg {
+  background: rgb(115, 179, 255) !important;
+}
+main.blue .logo-wrapper .title {
+  background: linear-gradient(132.72deg, #73B3FF 20.57%, #3290FF 74%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+main.purple {
+  background: radial-gradient(19.69% 39.57% at -0.52% 0%, rgba(168, 115, 255, 0.12) 0%, rgba(168, 115, 255, 0) 100%), radial-gradient(30.93% 28.89% at 50% 0%, rgba(168, 115, 255, 0.26) 0%, rgba(168, 115, 255, 0) 100%);
+}
+main.purple .bg-overlay {
+  background: linear-gradient(270deg, rgba(13, 3, 15, 0.9) 0%, rgba(13, 3, 15, 0) 37.34%), linear-gradient(90deg, rgba(13, 3, 15, 0.9) 0%, rgba(15, 14, 13, 0.0105882) 31.15%);
+}
+main.purple .left .displaced {
+  background: linear-gradient(90deg, rgba(168, 115, 255, 0.252) 0%, rgba(168, 115, 255, 0) 115.23%);
+}
+main.purple .right .displaced {
+  background: linear-gradient(240deg, rgba(168, 115, 255, 0.252) 0%, rgba(168, 115, 255, 0) 115.23%);
+}
+main.purple .center {
+  background: linear-gradient(180deg, rgba(168, 115, 255, 0.252) 0%, rgba(168, 115, 255, 0) 131.89%);
+}
+main.purple .main-title {
+  background: linear-gradient(90deg, rgba(168, 115, 255, 0.252) 0%, rgba(168, 115, 255, 0) 115.23%);
+}
+main.purple .keyboard-section .keys-wrapper .key-inform {
+  background: linear-gradient(240deg, rgba(168, 115, 255, 0.252) 0%, rgba(168, 115, 255, 0) 115.23%);
+}
+main.purple .keyboard-section .keyboard-wrapper .keyboard .row .key.active {
+  background: rgba(168, 115, 255, 0.34);
+}
+main.purple .keyboard-section .key-inform .key {
+  background: rgba(168, 115, 255, 0.252);
+}
+main.purple .music-player .bar-bg {
+  background: rgb(168, 115, 255) !important;
+}
+main.purple .logo-wrapper .title {
+  background: linear-gradient(132.72deg, #A873FF 20.57%, #8439FF 74%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+main.red {
+  background: radial-gradient(19.69% 39.57% at -0.52% 0%, rgba(255, 115, 115, 0.12) 0%, rgba(255, 115, 115, 0) 100%), radial-gradient(30.93% 28.89% at 50% 0%, rgba(255, 115, 115, 0.26) 0%, rgba(255, 115, 115, 0) 100%);
+}
+main.red .bg-overlay {
+  background: linear-gradient(270deg, rgba(15, 3, 3, 0.9) 0%, rgba(15, 3, 3, 0) 37.34%), linear-gradient(90deg, rgba(15, 3, 3, 0.9) 0%, rgba(15, 3, 3, 0) 31.15%);
+}
+main.red .left .displaced {
+  background: linear-gradient(90deg, rgba(255, 115, 115, 0.252) 0%, rgba(255, 115, 115, 0) 115.23%);
+}
+main.red .right .displaced {
+  background: linear-gradient(240deg, rgba(255, 115, 115, 0.252) 0%, rgba(255, 115, 115, 0) 115.23%);
+}
+main.red .center {
+  background: linear-gradient(180deg, rgba(255, 115, 115, 0.252) 0%, rgba(255, 115, 115, 0) 131.89%);
+}
+main.red .main-title {
+  background: linear-gradient(90deg, rgba(255, 115, 115, 0.252) 0%, rgba(255, 115, 115, 0) 115.23%);
+}
+main.red .keyboard-section .keys-wrapper .key-inform {
+  background: linear-gradient(240deg, rgba(255, 115, 115, 0.252) 0%, rgba(255, 115, 115, 0) 115.23%);
+}
+main.red .keyboard-section .keyboard-wrapper .keyboard .row .key.active {
+  background: rgba(255, 115, 115, 0.34);
+}
+main.red .keyboard-section .key-inform .key {
+  background: rgba(255, 115, 115, 0.252);
+}
+main.red .music-player .bar-bg {
+  background: rgb(255, 115, 115) !important;
+}
+main.red .logo-wrapper .title {
+  background: linear-gradient(132.72deg, #FF7373 20.57%, #FF4444 74%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+main.yellow {
+  background: radial-gradient(19.69% 39.57% at -0.52% 0%, rgba(255, 224, 115, 0.12) 0%, rgba(255, 224, 115, 0) 100%), radial-gradient(30.93% 28.89% at 50% 0%, rgba(255, 224, 115, 0.26) 0%, rgba(255, 224, 115, 0) 100%);
+}
+main.yellow .bg-overlay {
+  background: linear-gradient(270deg, rgba(15, 14, 3, 0.9) 0%, rgba(15, 14, 3, 0) 37.34%), linear-gradient(90deg, rgba(15, 14, 3, 0.9) 0%, rgba(15, 14, 3, 0) 31.15%);
+}
+main.yellow .left .displaced {
+  background: linear-gradient(90deg, rgba(255, 224, 115, 0.252) 0%, rgba(255, 224, 115, 0) 115.23%);
+}
+main.yellow .right .displaced {
+  background: linear-gradient(240deg, rgba(255, 224, 115, 0.252) 0%, rgba(255, 224, 115, 0) 115.23%);
+}
+main.yellow .center {
+  background: linear-gradient(180deg, rgba(255, 224, 115, 0.252) 0%, rgba(255, 224, 115, 0) 131.89%);
+}
+main.yellow .main-title {
+  background: linear-gradient(90deg, rgba(255, 224, 115, 0.252) 0%, rgba(255, 224, 115, 0) 115.23%);
+}
+main.yellow .keyboard-section .keys-wrapper .key-inform {
+  background: linear-gradient(240deg, rgba(255, 224, 115, 0.252) 0%, rgba(255, 224, 115, 0) 115.23%);
+}
+main.yellow .keyboard-section .keyboard-wrapper .keyboard .row .key.active {
+  background: rgba(255, 224, 115, 0.34);
+}
+main.yellow .keyboard-section .key-inform .key {
+  background: rgba(255, 224, 115, 0.252);
+}
+main.yellow .music-player .bar-bg {
+  background: rgb(255, 224, 115) !important;
+}
+main.yellow .logo-wrapper .title {
+  background: linear-gradient(132.72deg, #FFE073 20.57%, #FFD234 74%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+/*# sourceMappingURL=style.css.map */

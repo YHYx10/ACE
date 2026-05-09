@@ -1,0 +1,174 @@
+<template>
+    <div class="stock">
+        <div v-if="stock.type === 1" class="header">
+            <!-- vehicle boot -->
+            <svg width="29" height="16" viewBox="0 0 29 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd"
+                    d="M3.06092 0.157818C3.1605 0.24542 3.80365 1.1976 4.49019 2.27381C5.54778 3.93154 5.74795 4.21472 5.8004 4.127C6.80815 2.44119 7.93881 0.660325 8.06127 0.565972C8.22009 0.443662 8.25611 0.442714 13.39 0.427137L18.5588 0.411382L18.7525 0.547077C18.8591 0.621766 19.7706 1.73493 20.778 3.02088C21.7855 4.30682 22.6521 5.36893 22.7038 5.38119C22.7555 5.39339 24.0746 5.59519 25.6352 5.82956C28.7359 6.29523 28.7154 6.28972 28.9081 6.71416C28.9887 6.89179 29 7.24545 29 9.57923V12.2417L28.8726 12.4375C28.6289 12.8118 28.4838 12.879 27.8704 12.9013L27.3151 12.9214L27.2739 12.5163C27.1791 11.5836 26.7897 10.7262 26.164 10.0718C25.7198 9.60737 25.2261 9.29173 24.6104 9.07862C23.9753 8.85888 23.0008 8.84674 22.373 9.05084C21.7245 9.26164 21.2662 9.55637 20.7536 10.0921C20.0742 10.8023 19.7587 11.5111 19.6245 12.6294L19.5907 12.9107H14.9254H10.2601L10.2224 12.5702C10.107 11.5267 9.7943 10.8317 9.12062 10.1209C8.58265 9.55347 8.14357 9.26762 7.47657 9.05084C6.84882 8.84674 5.87432 8.85888 5.23926 9.07862C4.63179 9.28883 4.14066 9.60346 3.69881 10.0653C3.07084 10.7217 2.72776 11.4525 2.5942 12.4184L2.5251 12.9181L1.54969 12.8996C0.468765 12.8791 0.4004 12.8569 0.127449 12.4375L7.62939e-06 12.2417V9.13501C7.62939e-06 5.70186 -0.00622368 5.76494 0.360977 5.491C0.533674 5.36224 0.585672 5.35821 2.44971 5.32931L4.36128 5.29969L3.28528 3.6117C2.69344 2.68327 2.18656 1.91576 2.15881 1.90611C2.13111 1.89645 1.84434 1.95877 1.52149 2.04465C0.872272 2.2173 0.607422 2.21168 0.349482 2.01959C0.155996 1.87555 -0.000501633 1.56216 0.00125313 1.32234C0.0033493 1.03898 0.199213 0.668025 0.406178 0.555369C0.692608 0.399476 2.25481 0.00162898 2.58695 2.97747e-05C2.82354 -0.00109559 2.91485 0.0292895 3.06092 0.157818ZM8.06325 3.7301C7.55564 4.5608 7.1395 5.26048 7.13854 5.28488C7.13752 5.30929 10.1082 5.32931 13.7401 5.32931C17.3861 5.32931 20.3349 5.30656 20.3245 5.27855C20.3142 5.25059 19.7708 4.54415 19.117 3.7086L17.9283 2.18941L13.4572 2.20457L8.98615 2.21973L8.06325 3.7301ZM24.1056 9.85945C25.289 10.1287 26.2284 11.2063 26.409 12.5016C26.6189 14.0079 25.6579 15.5009 24.2139 15.912C23.824 16.023 23.0376 16.016 22.6563 15.8981C21.6389 15.5834 20.8828 14.7864 20.5877 13.7174C20.4537 13.2319 20.4645 12.455 20.6123 11.9631C20.8506 11.1691 21.4397 10.4639 22.1687 10.1C22.8125 9.77854 23.4191 9.7032 24.1056 9.85945ZM6.99512 9.84085C7.68115 9.97667 8.50726 10.5651 8.8919 11.1919C10.1671 13.2699 8.75937 16.0002 6.41303 16C5.56625 15.9999 4.88934 15.7116 4.30543 15.1023C2.22412 12.9303 4.09677 9.26709 6.99512 9.84085ZM23.0762 11.6355C22.5629 11.7949 22.2023 12.315 22.2044 12.893C22.2072 13.6766 22.7208 14.2157 23.4616 14.2125C23.85 14.2108 24.1693 14.0551 24.425 13.7428C25.1155 12.8992 24.5552 11.6105 23.4737 11.5545C23.4092 11.5512 23.2304 11.5876 23.0762 11.6355ZM6.01105 11.6406C5.26198 11.8732 4.90956 12.7589 5.27008 13.503C5.73634 14.4654 7.06428 14.4546 7.54137 13.4845C7.68495 13.1926 7.6922 12.6444 7.55654 12.3454C7.41313 12.0293 7.09912 11.7362 6.80113 11.6402C6.46123 11.5307 6.36477 11.5307 6.01105 11.6406Z"
+                    fill="white" />
+            </svg>
+            <div  class="header__content">
+                <h2 class="header__title">stamm</h2>
+                <p class="header__subtitle">Things stored in your trunk</p>
+            </div>
+        </div>
+
+        <div v-else class="header">
+            <!-- stock -->
+            <svg xmlns="http://www.w3.org/2000/svg" fill="white" height="24" width="24"><path d="M1.85 19.975V8.85q-.425-.4-.712-.963Q.85 7.325.85 6.4V4.125q0-1.425.988-2.413Q2.825.725 4.25.725h15.5q1.425 0 2.413.987.987.988.987 2.413V6.4q0 .925-.287 1.487-.288.563-.713.963v11.125q0 1.425-.987 2.412-.988.988-2.413.988H5.25q-1.425 0-2.412-.988-.988-.987-.988-2.412ZM5.25 9.8v10.175h13.5V9.8Zm14.5-3.4V4.125H4.25V6.4ZM8.425 14.575h7.15V11.95h-7.15Zm-3.175 5.4V9.8v10.175Z"/></svg>
+            <div  class="header__content">
+                <h2 class="header__title">lager</h2>
+                <p class="header__subtitle">Things stored in your warehouse</p>
+            </div>
+        </div>
+
+        <ListItems :id="stock.id" type="car" :drag="drag" :width="5" :sortByIndex="true" :canDrop="true" @onMouseDown="onMouseDown"
+            @onDoubleClick="onDoubleClick" />
+    </div>
+</template>
+
+<script>
+import { mapState, mapGetters } from 'vuex'
+import ListItems from './ListItems'
+
+export default {
+    props: ['drag'],
+    data() {
+        return {
+            tittles: {
+                "0": "stock:tit:1",
+                "1": "stock:tit:2",
+                "2": "stock:tit:1"
+            }
+        }
+    },
+    methods: {
+        onMouseDown(dragObject) {
+            this.$emit("onMouseDown", dragObject);
+        },
+        onDoubleClick(adress, item) {
+            this.$emit("onDoubleClick", adress, item);
+        },
+        close() {
+            window.mp.trigger("cef:inv:close");
+        }
+    },
+    computed: {
+        ...mapState('inventory', ['stock']),
+        ...mapGetters('inventory', ['getById']),
+        ...mapGetters('localization', ['loc']),
+        currentWeight() {
+            let amount = 0;
+            this.inventory.items.forEach(item => {
+                amount += item.getWeight();
+            });
+            return amount;
+        },
+        inventory() {
+            return this.getById(this.stock.id);
+        },
+    },
+    components: {
+        ListItems
+    }
+}
+</script>
+
+<style lang="scss" scoped>
+.header {
+    display: flex;
+    gap: 1vh;
+    margin-bottom: 1.2vh;
+
+    &__title {
+        margin-bottom: 1vh;
+        font-weight: 700;
+        font-size: 2.6vh;
+        text-transform: uppercase;
+
+        color: #301934 ;
+    }
+
+    &__subtitle {
+        font-weight: 300;
+        font-size: 1.6vh;
+        line-height: 120%;
+        text-transform: uppercase;
+
+        color: rgba(255, 255, 255, 0.25);
+    }
+}
+
+.stock {
+    &-tittle {
+        &-text {
+            text-shadow: -10px -10px 40px rgba(255, 255, 255, 0.5);
+            color: #fff;
+            font-size: 4vh;
+            line-height: 4vh;
+            font-weight: 250;
+        }
+
+        &-img {
+            position: absolute;
+            top: 0;
+            right: 0;
+        }
+
+        &-weight {
+            display: flex;
+            align-items: center;
+            margin-bottom: 1vh;
+
+            &-text {
+                color: rgba(#fff, .5);
+                font-size: 1.5vh;
+                line-height: 1.5vh;
+                letter-spacing: .03vh;
+                margin-right: .5vh;
+            }
+
+            &-amount {
+                color: #fff;
+                font-size: 1.5vh;
+                line-height: 1.5vh;
+            }
+
+            &-max {
+                color: rgba(#fff, .5);
+                font-size: 1vh;
+                line-height: .9vh;
+                letter-spacing: .03vh;
+                align-self: flex-end;
+                margin-bottom: .2vh;
+                padding-left: .15vh;
+                text-align: left;
+            }
+
+            &-hr {
+                border-bottom: 2px solid #FF3380;
+                //border: .01rem solid rgba(#fff, .5);
+                width: 8vh;
+                margin-left: 1vh;
+            }
+
+            ;
+        }
+    }
+
+    &-footer {
+        height: 3.5vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: rgba(#fff, .5);
+        width: 26.5vh;
+        background-color: rgba(0, 13, 18, 0.5);
+        margin-top: 1vh;
+
+        &:hover {
+            background-color: rgba(50, 63, 68, 0.5);
+        }
+    }
+}
+</style>

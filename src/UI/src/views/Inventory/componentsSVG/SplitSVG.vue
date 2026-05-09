@@ -1,0 +1,14 @@
+<template>
+  <svg
+    width="25"
+    height="25"
+    viewBox="0 0 25 25"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M25 25H18.75V18.75H25V25ZM15.625 25H9.375V18.75H15.625V25ZM6.25 25H0V18.75H6.25V25ZM25 15.625H18.75V9.375H25V15.625ZM15.625 15.625H9.375V9.375H15.625V15.625ZM6.25 15.625H0V9.375H6.25V15.625ZM25 6.25H18.75V0H25V6.25ZM15.625 6.25H9.375V0H15.625V6.25ZM6.25 6.25H0V0H6.25V6.25Z"
+      fill="white"
+    />
+  </svg>
+</template>

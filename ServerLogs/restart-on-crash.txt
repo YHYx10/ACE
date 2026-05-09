@@ -1,0 +1,33 @@
+12/29/2023 10:08:10 AM	Executing a command : "C:\core\ragemp-server.exe"
+12/29/2023 10:08:11 AM	C:\core\ragemp-server.exe has recovered
+12/29/2023 10:08:13 AM	C:\core\ragemp-server.exe is not running
+12/29/2023 10:08:13 AM	C:\core\ragemp-server.exe will be treated as crashed/hanged
+12/29/2023 10:08:37 AM	The current Windows session is about to end. Application monitoring stopped.
+12/29/2023 10:17:42 AM	C:\core\ragemp-server.exe is not running
+12/29/2023 10:17:42 AM	C:\core\ragemp-server.exe will be treated as crashed/hanged
+12/29/2023 10:17:42 AM	Executing a command : "C:\core\ragemp-server.exe"
+12/29/2023 10:17:43 AM	C:\core\ragemp-server.exe has recovered
+12/29/2023 10:17:45 AM	C:\core\ragemp-server.exe is not running
+12/29/2023 10:17:45 AM	C:\core\ragemp-server.exe will be treated as crashed/hanged
+12/29/2023 10:20:49 AM	Executing a command : "C:\core\ragemp-server.exe"
+12/29/2023 11:01:41 AM	The current Windows session is about to end. Application monitoring stopped.
+12/29/2023 12:49:12 PM	C:\core\ragemp-server.exe is not running
+12/29/2023 12:49:12 PM	C:\core\ragemp-server.exe will be treated as crashed/hanged
+12/29/2023 12:49:12 PM	Executing a command : "C:\core\ragemp-server.exe"
+12/29/2023 12:49:13 PM	C:\core\ragemp-server.exe has recovered
+12/29/2023 1:02:01 PM	C:\core\ragemp-server.exe is not running
+12/29/2023 1:02:01 PM	C:\core\ragemp-server.exe will be treated as crashed/hanged
+12/29/2023 1:02:01 PM	Executing a command : "C:\core\ragemp-server.exe"
+12/29/2023 1:02:03 PM	C:\core\ragemp-server.exe has recovered
+12/29/2023 1:43:19 PM	C:\core\ragemp-server.exe is not running
+12/29/2023 1:43:19 PM	C:\core\ragemp-server.exe will be treated as crashed/hanged
+12/29/2023 1:43:19 PM	Executing a command : "C:\core\ragemp-server.exe"
+12/29/2023 1:43:21 PM	C:\core\ragemp-server.exe has recovered
+12/29/2023 2:48:14 PM	C:\core\ragemp-server.exe is not running
+12/29/2023 2:48:14 PM	C:\core\ragemp-server.exe will be treated as crashed/hanged
+12/29/2023 2:48:14 PM	Executing a command : "C:\core\ragemp-server.exe"
+12/29/2023 2:48:16 PM	C:\core\ragemp-server.exe has recovered
+12/29/2023 2:54:14 PM	C:\core\ragemp-server.exe is not running
+12/29/2023 2:54:14 PM	C:\core\ragemp-server.exe will be treated as crashed/hanged
+12/29/2023 2:54:14 PM	Executing a command : "C:\core\ragemp-server.exe"
+12/29/2023 2:54:16 PM	C:\core\ragemp-server.exe has recovered

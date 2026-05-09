@@ -1,0 +1,14 @@
+{
+    "maxplayers": 2000,
+    "name": "Astro RolePlay [NEW] [BONUS] [ROLEPLAY] [VOICE] [V2.0]",
+    "gamemode": "ROLEPLAY",
+    "stream-distance": 300,
+    "announce": true,
+    "csharp": "enabled",
+    "enableNodejs": true,
+    "voice-chat": true,
+    "port": 22005,
+    "bind": "0.0.0.0",
+    "encryption": true
+  }
+  

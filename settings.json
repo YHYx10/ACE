@@ -1,0 +1,100 @@
+﻿{
+    "ConnectionStrings": {
+        "DefaultConnection": "server=127.0.0.1;uid=root;pwd=;port=3306;database=aqua;password=",
+        "WhistlerConnection": "server=127.0.0.1;uid=root;pwd=;port=3306;database=aqua;password="
+    },
+    "MailService": {
+        "Url": "https://admin.gta5pixel.com"
+    },
+    "Main": {
+        "ServerNumber": 1,
+        "Weather": "XMAS",
+        "SocialClubCheck": true,
+        "ServerName": "Mythic RolePlay",
+        "VOIPEnabled": true,
+        "RemoteControl": false,
+        "DonateChecker": false,
+        "Donation_Sale": true,
+        "PaydayMultiplier": 2,
+        "ExpMultiplier": 2,
+        "SCLog": false,
+        "BizTax": false,
+        "HousesTax": false,
+        "GangsPay": false,
+        "GangsIncome": 200,
+        "MafiaIncome": 600,
+        "SendClientExceptions": true
+    },
+    "MySQL": {
+        "Server": "127.0.0.1",
+        "User": "root",
+        "Password": "",
+        "DataBase": "aqua",
+        "SSL": "SslMode=None;",
+        "Port": 3306
+    },
+    "Timers": {
+        "Delay": 100,
+        "ClearDelay": 300000
+    },
+    "Jobs": {
+        "PayMultipler": 1
+    },
+    "Bonus": {
+        "Minutes": 480,
+        "OneInDay": true,
+        "Coins": 10,
+        "Money": 100000,
+        "Active": false
+    },
+    "BonusVehicle": {
+        "Minutes": 1800,
+        "OneInDay": true,
+        "OneInWeek": true,
+        "Vehicle": "elytron",
+        "Price": 1200000,
+        "Active": true
+    },
+    "Query": {
+        "IpAdress": "127.0.0.1",
+        "Port": 22001
+    },
+    "DonateConfig": {
+        "CoinToVirtual": 5000,
+        "RubToCoin": 1,
+        "PaymentProvider": "Prime",
+        "PayUrl": "https://pay.primepayments.ru/API/v1",
+        "Database": "donates_db",
+        "Secret": "NnjvFDS5yg",
+        "Currency": "USD",
+        "Language": "EN",
+        "ProjectId": 3724,
+        "CoinKits": [
+            {
+                "Id": 0,
+                "Price": 80,
+                "Coins": 100
+            },
+            {
+                "Id": 1,
+                "Price": 150,
+                "Coins": 200
+            },
+            {
+                "Id": 2,
+                "Price": 300,
+                "Coins": 400
+            },
+            {
+                "Id": 3,
+                "Price": 500,
+                "Coins": 650
+            },
+            {
+                "Id": 4,
+                "Price": 1000,
+                "Coins": 1350
+            }
+        ]
+    }
+}

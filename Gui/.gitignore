@@ -1,0 +1,29 @@
+.DS_Store
+node_modules
+/dist
+src/configs/newDonateShop/roulette.js
+src/configs/newDonateShop/items.js
+src/configs/newDonateShop/rarityPrices.js
+src/configs/newDonateShop/primeAccount.js
+src/configs/newDonateShop/coinkits.js
+src/configs/gameMakeWeapon/
+src/configs/gameMetalPlant/
+src/configs/GameMetalPlant/
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

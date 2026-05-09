@@ -1,0 +1,195 @@
+﻿
+            SkinList.Add(CostumeNames.MHyper King, new CostumeModel(true, 
+                new Dictionary<CostumeClothesSlots, CostumeElement>
+                {
+                }, new Dictionary<CostumePropsSlots, CostumeElement>
+                {
+                },12));      
+
+            SkinList.Add(CostumeNames.MKalyaan, new CostumeModel(true, 
+                new Dictionary<CostumeClothesSlots, CostumeElement>
+                {
+                    { CostumeClothesSlots.Torsos, new CostumeElement(9, 0) },
+                    { CostumeClothesSlots.Legs, new CostumeElement(63, 0) },
+                    { CostumeClothesSlots.Bags, new CostumeElement(1, 0) },
+                    { CostumeClothesSlots.Shoes, new CostumeElement(35, 0) },
+                    { CostumeClothesSlots.Accessories, new CostumeElement(2, 0) },
+                    { CostumeClothesSlots.Undershirts, new CostumeElement(17, 0) },
+                }, new Dictionary<CostumePropsSlots, CostumeElement>
+                {
+                },12));      
+
+            SkinList.Add(CostumeNames.MAdler, new CostumeModel(true, 
+                new Dictionary<CostumeClothesSlots, CostumeElement>
+                {
+                    { CostumeClothesSlots.Torsos, new CostumeElement(29, 0) },
+                    { CostumeClothesSlots.Legs, new CostumeElement(148, 0) },
+                    { CostumeClothesSlots.Shoes, new CostumeElement(114, 0) },
+                    { CostumeClothesSlots.Undershirts, new CostumeElement(1, 0) },
+                    { CostumeClothesSlots.Top, new CostumeElement(400, 0) },
+                    { CostumeClothesSlots.BodyArmor, new CostumeElement(504, 0) },
+                }, new Dictionary<CostumePropsSlots, CostumeElement>
+                {
+                    { CostumePropsSlots.Glasses, new CostumeElement(40, 0) },
+                }));      
+
+            SkinList.Add(CostumeNames.MAdler, new CostumeModel(true, 
+                new Dictionary<CostumeClothesSlots, CostumeElement>
+                {
+                    { CostumeClothesSlots.Torsos, new CostumeElement(29, 0) },
+                    { CostumeClothesSlots.Legs, new CostumeElement(148, 0) },
+                    { CostumeClothesSlots.Shoes, new CostumeElement(114, 0) },
+                    { CostumeClothesSlots.Undershirts, new CostumeElement(1, 0) },
+                    { CostumeClothesSlots.Top, new CostumeElement(400, 0) },
+                    { CostumeClothesSlots.BodyArmor, new CostumeElement(504, 0) },
+                }, new Dictionary<CostumePropsSlots, CostumeElement>
+                {
+                    { CostumePropsSlots.Glasses, new CostumeElement(40, 0) },
+                }));      
+
+            SkinList.Add(CostumeNames.Ma, new CostumeModel(true, 
+                new Dictionary<CostumeClothesSlots, CostumeElement>
+                {
+                    { CostumeClothesSlots.BodyArmor, new CostumeElement(504, 0) },
+                }, new Dictionary<CostumePropsSlots, CostumeElement>
+                {
+                    { CostumePropsSlots.Ears, new CostumeElement(47, 0) },
+                }));      
+
+            SkinList.Add(CostumeNames.Ms, new CostumeModel(true, 
+                new Dictionary<CostumeClothesSlots, CostumeElement>
+                {
+                    { CostumeClothesSlots.Torsos, new CostumeElement(13, 0) },
+                    { CostumeClothesSlots.Legs, new CostumeElement(59, 0) },
+                }, new Dictionary<CostumePropsSlots, CostumeElement>
+                {
+                },12));      
+
+            SkinList.Add(CostumeNames.Ms, new CostumeModel(true, 
+                new Dictionary<CostumeClothesSlots, CostumeElement>
+                {
+                    { CostumeClothesSlots.Torsos, new CostumeElement(13, 0) },
+                    { CostumeClothesSlots.Legs, new CostumeElement(59, 0) },
+                }, new Dictionary<CostumePropsSlots, CostumeElement>
+                {
+                },12));      
+
+            SkinList.Add(CostumeNames.MAdler, new CostumeModel(true, 
+                new Dictionary<CostumeClothesSlots, CostumeElement>
+                {
+                    { CostumeClothesSlots.Top, new CostumeElement(394, 0) },
+                }, new Dictionary<CostumePropsSlots, CostumeElement>
+                {
+                },12));      
+
+            SkinList.Add(CostumeNames.MAdler, new CostumeModel(true, 
+                new Dictionary<CostumeClothesSlots, CostumeElement>
+                {
+                    { CostumeClothesSlots.Top, new CostumeElement(394, 0) },
+                }, new Dictionary<CostumePropsSlots, CostumeElement>
+                {
+                },12));      
+
+            SkinList.Add(CostumeNames.Mpenis, new CostumeModel(true, 
+                new Dictionary<CostumeClothesSlots, CostumeElement>
+                {
+                    { CostumeClothesSlots.Shoes, new CostumeElement(8, 0) },
+                }, new Dictionary<CostumePropsSlots, CostumeElement>
+                {
+                },12));      
+
+            SkinList.Add(CostumeNames.Madada, new CostumeModel(true, 
+                new Dictionary<CostumeClothesSlots, CostumeElement>
+                {
+                    { CostumeClothesSlots.Top, new CostumeElement(484, 0) },
+                }, new Dictionary<CostumePropsSlots, CostumeElement>
+                {
+                    { CostumePropsSlots.Ears, new CostumeElement(2, 0) },
+                },12));      
+
+            SkinList.Add(CostumeNames.Madada, new CostumeModel(true, 
+                new Dictionary<CostumeClothesSlots, CostumeElement>
+                {
+                    { CostumeClothesSlots.Bags, new CostumeElement(195, 0) },
+                }, new Dictionary<CostumePropsSlots, CostumeElement>
+                {
+                },12));      
+
+            SkinList.Add(CostumeNames.Madada, new CostumeModel(true, 
+                new Dictionary<CostumeClothesSlots, CostumeElement>
+                {
+                    { CostumeClothesSlots.Bags, new CostumeElement(195, 0) },
+                }, new Dictionary<CostumePropsSlots, CostumeElement>
+                {
+                },12));      
+
+            SkinList.Add(CostumeNames.Madad, new CostumeModel(true, 
+                new Dictionary<CostumeClothesSlots, CostumeElement>
+                {
+                    { CostumeClothesSlots.Bags, new CostumeElement(195, 0) },
+                    { CostumeClothesSlots.BodyArmor, new CostumeElement(504, 0) },
+                }, new Dictionary<CostumePropsSlots, CostumeElement>
+                {
+                }));      
+
+            SkinList.Add(CostumeNames.MLABUSS, new CostumeModel(true, 
+                new Dictionary<CostumeClothesSlots, CostumeElement>
+                {
+                    { CostumeClothesSlots.Bags, new CostumeElement(195, 0) },
+                }, new Dictionary<CostumePropsSlots, CostumeElement>
+                {
+                },12));      
+
+            SkinList.Add(CostumeNames.MLABUSS, new CostumeModel(true, 
+                new Dictionary<CostumeClothesSlots, CostumeElement>
+                {
+                    { CostumeClothesSlots.Bags, new CostumeElement(195, 0) },
+                }, new Dictionary<CostumePropsSlots, CostumeElement>
+                {
+                },12));      
+
+            SkinList.Add(CostumeNames.Mlabuss``, new CostumeModel(true, 
+                new Dictionary<CostumeClothesSlots, CostumeElement>
+                {
+                    { CostumeClothesSlots.Bags, new CostumeElement(195, 0) },
+                    { CostumeClothesSlots.BodyArmor, new CostumeElement(504, 0) },
+                }, new Dictionary<CostumePropsSlots, CostumeElement>
+                {
+                }));      
+
+            SkinList.Add(CostumeNames.Mlabuss``, new CostumeModel(true, 
+                new Dictionary<CostumeClothesSlots, CostumeElement>
+                {
+                    { CostumeClothesSlots.Bags, new CostumeElement(195, 0) },
+                    { CostumeClothesSlots.BodyArmor, new CostumeElement(504, 0) },
+                }, new Dictionary<CostumePropsSlots, CostumeElement>
+                {
+                }));      
+
+            SkinList.Add(CostumeNames.Mlabuss``, new CostumeModel(true, 
+                new Dictionary<CostumeClothesSlots, CostumeElement>
+                {
+                    { CostumeClothesSlots.Bags, new CostumeElement(195, 0) },
+                    { CostumeClothesSlots.BodyArmor, new CostumeElement(504, 0) },
+                }, new Dictionary<CostumePropsSlots, CostumeElement>
+                {
+                }));      
+
+            SkinList.Add(CostumeNames.Mada, new CostumeModel(true, 
+                new Dictionary<CostumeClothesSlots, CostumeElement>
+                {
+                    { CostumeClothesSlots.Torsos, new CostumeElement(62, 0) },
+                    { CostumeClothesSlots.Bags, new CostumeElement(195, 0) },
+                    { CostumeClothesSlots.Accessories, new CostumeElement(23, 0) },
+                }, new Dictionary<CostumePropsSlots, CostumeElement>
+                {
+                    { CostumePropsSlots.Hats, new CostumeElement(35, 0) },
+                },12));      
+
+            SkinList.Add(CostumeNames.Mlabuss, new CostumeModel(true, 
+                new Dictionary<CostumeClothesSlots, CostumeElement>
+                {
+                    { CostumeClothesSlots.Bags, new CostumeElement(195, 0) },
+                }, new Dictionary<CostumePropsSlots, CostumeElement>
+                {
+                },12));      

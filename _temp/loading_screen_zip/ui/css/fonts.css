@@ -1,0 +1,80 @@
+@import url('https://fonts.cdnfonts.com/css/barlow');
+@import url('https://fonts.cdnfonts.com/css/poppins');
+@import url('https://fonts.cdnfonts.com/css/inter');
+
+@font-face {
+    font-family: 'NATURE_BEAUTY_PERSONAL_USE';
+    src: url(../assets/fonts/NATURE_BEAUTY_PERSONAL_USE.TTF);
+}
+
+@font-face {
+    font-family: 'Integral CF Extra';
+    src: url('../assets/fonts/IntegralCF-ExtraBold.eot');
+    src: local('Integral CF Extra Bold'), local('IntegralCF-ExtraBold'),
+        url('../assets/fonts/IntegralCF-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/IntegralCF-ExtraBold.woff2') format('woff2'),
+        url('../assets/fonts/IntegralCF-ExtraBold.woff') format('woff'),
+        url('../assets/fonts/IntegralCF-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Integral CF';
+    src: url('../assets/fonts/IntegralCF-Bold.eot');
+    src: local('Integral CF Bold'), local('IntegralCF-Bold'),
+        url('../assets/fonts/IntegralCF-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/IntegralCF-Bold.woff2') format('woff2'),
+        url('../assets/fonts/IntegralCF-Bold.woff') format('woff'),
+        url('../assets/fonts/IntegralCF-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Integral CF';
+    src: url('../assets/fonts/IntegralCF-Regular.eot');
+    src: local('Integral CF'), local('IntegralCF-Regular'),
+        url('../assets/fonts/IntegralCF-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/IntegralCF-Regular.woff2') format('woff2'),
+        url('../assets/fonts/IntegralCF-Regular.woff') format('woff'),
+        url('../assets/fonts/IntegralCF-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Integral CF';
+    src: url('../assets/fonts/IntegralCF-Medium.eot');
+    src: local('Integral CF Medium'), local('IntegralCF-Medium'),
+        url('../assets/fonts/IntegralCF-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/IntegralCF-Medium.woff2') format('woff2'),
+        url('../assets/fonts/IntegralCF-Medium.woff') format('woff'),
+        url('../assets/fonts/IntegralCF-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Integral CF Demi';
+    src: url('../assets/fonts/IntegralCF-DemiBold.eot');
+    src: local('Integral CF Demi Bold'), local('IntegralCF-DemiBold'),
+        url('../assets/fonts/IntegralCF-DemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/IntegralCF-DemiBold.woff2') format('woff2'),
+        url('../assets/fonts/IntegralCF-DemiBold.woff') format('woff'),
+        url('../assets/fonts/IntegralCF-DemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Integral CF';
+    src: url('../assets/fonts/IntegralCF-Heavy.eot');
+    src: local('Integral CF Heavy'), local('IntegralCF-Heavy'),
+        url('../assets/fonts/IntegralCF-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/IntegralCF-Heavy.woff2') format('woff2'),
+        url('../assets/fonts/IntegralCF-Heavy.woff') format('woff'),
+        url('../assets/fonts/IntegralCF-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}

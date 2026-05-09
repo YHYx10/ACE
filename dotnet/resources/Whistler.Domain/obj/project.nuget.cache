@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PtM6tg8FLLEeXddE5uIlByuFzP2gS6KVBLrbHZO8PqJp1Qk2/5b+alhaPdN1EPt7AowrpMEprwKB2LeSLoCqdg==",
+  "success": true,
+  "projectFilePath": "C:\\ASTRO\\dotnet\\resources\\Whistler.Domain\\Whistler.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bar\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Bar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Bar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

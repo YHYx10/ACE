@@ -1,0 +1,9 @@
+C:\ASTRO\dotnet\resources\Whistler.Domain\bin\x64\Debug\netcoreapp3.1\Whistler.Domain.deps.json
+C:\ASTRO\dotnet\resources\Whistler.Domain\bin\x64\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\ASTRO\dotnet\resources\Whistler.Domain\bin\x64\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\ASTRO\dotnet\resources\Whistler.Domain\obj\x64\Debug\netcoreapp3.1\Whistler.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASTRO\dotnet\resources\Whistler.Domain\obj\x64\Debug\netcoreapp3.1\Whistler.Domain.AssemblyInfoInputs.cache
+C:\ASTRO\dotnet\resources\Whistler.Domain\obj\x64\Debug\netcoreapp3.1\Whistler.Domain.AssemblyInfo.cs
+C:\ASTRO\dotnet\resources\Whistler.Domain\obj\x64\Debug\netcoreapp3.1\Whistler.Domain.csproj.CoreCompileInputs.cache
+C:\ASTRO\dotnet\resources\Whistler.Domain\obj\x64\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\ASTRO\dotnet\resources\Whistler.Domain\obj\x64\Debug\netcoreapp3.1\Whistler.Domain.pdb

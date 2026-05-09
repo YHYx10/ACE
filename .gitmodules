@@ -1,0 +1,9 @@
+[submodule "src/client"]
+	path = src/client
+	url = git@github.com:gtapixel/client.git
+[submodule "src/server"]
+	path = src/server
+	url = git@github.com:gtapixel/server.git
+[submodule "src/cef"]
+	path = src/cef
+	url = git@github.com:gtapixel/cef.git

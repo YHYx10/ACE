@@ -1,0 +1,302 @@
+F:\new\whistler_1_1\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.deps.json
+F:\new\whistler_1_1\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+F:\new\whistler_1_1\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+F:\new\whistler_1_1\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+F:\new\whistler_1_1\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+F:\new\whistler_1_1\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+F:\new\whistler_1_1\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+F:\new\whistler_1_1\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csprojAssemblyReference.cache
+F:\new\whistler_1_1\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+F:\new\whistler_1_1\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfo.cs
+F:\new\whistler_1_1\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+F:\new\whistler_1_1\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CopyComplete
+F:\new\whistler_1_1\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+F:\new\whistler_1_1\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.deps.json
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfo.cs
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.json
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.dev.json
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.genruntimeconfig.cache
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.AssemblyReference.cache
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\new\whistler\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CopyComplete
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.deps.json
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.json
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.dev.json
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfo.cs
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CopyComplete
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\Users\Amazing\Desktop\server\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.genruntimeconfig.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.deps.json
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.json
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.dev.json
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfo.cs
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CopyComplete
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\Users\Amazing\Desktop\server\dotnet\resources\src\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.genruntimeconfig.cache
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.deps.json
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.json
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.dev.json
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfo.cs
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CopyComplete
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\Users\Amazing\Desktop\server\Server Source\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.genruntimeconfig.cache
+F:\Mikz\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.deps.json
+F:\Mikz\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.json
+F:\Mikz\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.dev.json
+F:\Mikz\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+F:\Mikz\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+F:\Mikz\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+F:\Mikz\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+F:\Mikz\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+F:\Mikz\Server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+F:\Mikz\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.AssemblyReference.cache
+F:\Mikz\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mikz\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+F:\Mikz\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfo.cs
+F:\Mikz\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+F:\Mikz\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CopyComplete
+F:\Mikz\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+F:\Mikz\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+F:\Mikz\Server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.genruntimeconfig.cache
+C:\Users\cenkg\Downloads\core-master\src\server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.deps.json
+C:\Users\cenkg\Downloads\core-master\src\server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.json
+C:\Users\cenkg\Downloads\core-master\src\server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.dev.json
+C:\Users\cenkg\Downloads\core-master\src\server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\Users\cenkg\Downloads\core-master\src\server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\Users\cenkg\Downloads\core-master\src\server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\Users\cenkg\Downloads\core-master\src\server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+C:\Users\cenkg\Downloads\core-master\src\server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\Users\cenkg\Downloads\core-master\src\server\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+C:\Users\cenkg\Downloads\core-master\src\server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.AssemblyReference.cache
+C:\Users\cenkg\Downloads\core-master\src\server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cenkg\Downloads\core-master\src\server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+C:\Users\cenkg\Downloads\core-master\src\server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfo.cs
+C:\Users\cenkg\Downloads\core-master\src\server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\cenkg\Downloads\core-master\src\server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.AF0C3C07.Up2Date
+C:\Users\cenkg\Downloads\core-master\src\server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\Users\cenkg\Downloads\core-master\src\server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\Users\cenkg\Downloads\core-master\src\server\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.genruntimeconfig.cache
+C:\Users\cenkg\Downloads\core-master\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.deps.json
+C:\Users\cenkg\Downloads\core-master\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.json
+C:\Users\cenkg\Downloads\core-master\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.dev.json
+C:\Users\cenkg\Downloads\core-master\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\Users\cenkg\Downloads\core-master\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\Users\cenkg\Downloads\core-master\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\Users\cenkg\Downloads\core-master\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+C:\Users\cenkg\Downloads\core-master\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\Users\cenkg\Downloads\core-master\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+C:\Users\cenkg\Downloads\core-master\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.AssemblyReference.cache
+C:\Users\cenkg\Downloads\core-master\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cenkg\Downloads\core-master\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+C:\Users\cenkg\Downloads\core-master\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfo.cs
+C:\Users\cenkg\Downloads\core-master\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\cenkg\Downloads\core-master\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.AF0C3C07.Up2Date
+C:\Users\cenkg\Downloads\core-master\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\Users\cenkg\Downloads\core-master\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\Users\cenkg\Downloads\core-master\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.deps.json
+C:\Users\Administrator\Desktop\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.json
+C:\Users\Administrator\Desktop\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\Users\Administrator\Desktop\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\Users\Administrator\Desktop\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\Users\Administrator\Desktop\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+C:\Users\Administrator\Desktop\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\Users\Administrator\Desktop\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+C:\Users\Administrator\Desktop\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.AF0C3C07.Up2Date
+C:\Users\Administrator\Desktop\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\Users\Administrator\Desktop\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\Users\Administrator\Desktop\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.deps.json
+C:\Users\Administrator\Desktop\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.json
+C:\Users\Administrator\Desktop\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\Users\Administrator\Desktop\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\Users\Administrator\Desktop\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\Users\Administrator\Desktop\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+C:\Users\Administrator\Desktop\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\Users\Administrator\Desktop\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+C:\Users\Administrator\Desktop\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.AF0C3C07.Up2Date
+C:\Users\Administrator\Desktop\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\Users\Administrator\Desktop\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\Users\Administrator\Desktop\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\secret\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.deps.json
+C:\Users\Administrator\Desktop\secret\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.json
+C:\Users\Administrator\Desktop\secret\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\secret\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\Users\Administrator\Desktop\secret\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\Users\Administrator\Desktop\secret\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\Users\Administrator\Desktop\secret\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+C:\Users\Administrator\Desktop\secret\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\Users\Administrator\Desktop\secret\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+C:\Users\Administrator\Desktop\secret\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\secret\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\secret\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\secret\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\secret\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\secret\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.AF0C3C07.Up2Date
+C:\Users\Administrator\Desktop\secret\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\Users\Administrator\Desktop\secret\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\Users\Administrator\Desktop\secret\secret\LuxeRp(special edition)\LuxeRp\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.genruntimeconfig.cache
+E:\down\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.deps.json
+E:\down\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.json
+E:\down\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.dev.json
+E:\down\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+E:\down\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+E:\down\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+E:\down\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+E:\down\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+E:\down\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+E:\down\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.AssemblyReference.cache
+E:\down\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\down\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+E:\down\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfo.cs
+E:\down\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+E:\down\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.AF0C3C07.Up2Date
+E:\down\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+E:\down\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+E:\down\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.deps.json
+C:\Users\Administrator\Desktop\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.json
+C:\Users\Administrator\Desktop\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\Users\Administrator\Desktop\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\Users\Administrator\Desktop\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\Users\Administrator\Desktop\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+C:\Users\Administrator\Desktop\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\Users\Administrator\Desktop\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+C:\Users\Administrator\Desktop\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.AF0C3C07.Up2Date
+C:\Users\Administrator\Desktop\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\Users\Administrator\Desktop\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\Users\Administrator\Desktop\LuxeRp N\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.deps.json
+C:\Users\Administrator\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.json
+C:\Users\Administrator\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.dev.json
+C:\Users\Administrator\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\Users\Administrator\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\Users\Administrator\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\Users\Administrator\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+C:\Users\Administrator\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\Users\Administrator\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+C:\Users\Administrator\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.AF0C3C07.Up2Date
+C:\Users\Administrator\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\Users\Administrator\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\Users\Administrator\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.genruntimeconfig.cache
+C:\Users\pc\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.deps.json
+C:\Users\pc\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.json
+C:\Users\pc\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.dev.json
+C:\Users\pc\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\Users\pc\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\Users\pc\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\Users\pc\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+C:\Users\pc\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\Users\pc\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+C:\Users\pc\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfo.cs
+C:\Users\pc\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.AF0C3C07.Up2Date
+C:\Users\pc\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\Users\pc\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\Users\pc\Downloads\server-files\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\astro-roleplay\astro-roleplay\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.deps.json
+C:\Users\Administrator\Desktop\astro-roleplay\astro-roleplay\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.json
+C:\Users\Administrator\Desktop\astro-roleplay\astro-roleplay\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\astro-roleplay\astro-roleplay\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\Users\Administrator\Desktop\astro-roleplay\astro-roleplay\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\Users\Administrator\Desktop\astro-roleplay\astro-roleplay\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\Users\Administrator\Desktop\astro-roleplay\astro-roleplay\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+C:\Users\Administrator\Desktop\astro-roleplay\astro-roleplay\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\Users\Administrator\Desktop\astro-roleplay\astro-roleplay\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+C:\Users\Administrator\Desktop\astro-roleplay\astro-roleplay\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\astro-roleplay\astro-roleplay\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\astro-roleplay\astro-roleplay\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\astro-roleplay\astro-roleplay\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\astro-roleplay\astro-roleplay\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\astro-roleplay\astro-roleplay\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.AF0C3C07.Up2Date
+C:\Users\Administrator\Desktop\astro-roleplay\astro-roleplay\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\Users\Administrator\Desktop\astro-roleplay\astro-roleplay\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\Users\Administrator\Desktop\astro-roleplay\astro-roleplay\server-files\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.genruntimeconfig.cache
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.deps.json
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.json
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.dev.json
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.AssemblyReference.cache
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfo.cs
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CopyComplete
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.genruntimeconfig.cache

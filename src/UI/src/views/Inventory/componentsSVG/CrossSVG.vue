@@ -1,0 +1,5 @@
+<template>
+  <svg @click="$emit('click', $event)" xmlns="http://www.w3.org/2000/svg" fill="#fff" width="30" height="30" viewBox="0 0 30 30">
+    <path d="M21.988 6.25 15 13.238 8.012 6.25 6.25 8.012 13.238 15 6.25 21.988l1.762 1.762L15 16.762l6.988 6.988 1.762-1.762L16.762 15l6.988-6.988-1.762-1.762Z"/>
+  </svg>
+</template>

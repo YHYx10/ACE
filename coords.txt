@@ -1,0 +1,8 @@
+﻿Adler   Coords: new Vector3(-1104.392, -2849.3975, 21.361336),    JSON: {"x":-1104.392,"y":-2849.3975,"z":21.361336}      
+Adler   Rotation: new Vector3(0, 0, -22.413689),     JSON: {"x":0.0,"y":0.0,"z":-22.413689}    
+Adler   Coords: new Vector3(-1039.4445, -2729.7405, 20.21441),    JSON: {"x":-1039.4445,"y":-2729.7405,"z":20.21441}      
+Adler   Rotation: new Vector3(0, 0, -48.01344),     JSON: {"x":0.0,"y":0.0,"z":-48.01344}    
+Adler   Coords: new Vector3(-1048.0978, -2723.177, 20.02044),    JSON: {"x":-1048.0978,"y":-2723.177,"z":20.02044}      
+Adler   Rotation: new Vector3(0, 0, -23.439281),     JSON: {"x":0.0,"y":0.0,"z":-23.439281}    
+airport   Coords: new Vector3(-1099.9626, -2842.1802, 21.361324),    JSON: {"x":-1099.9626,"y":-2842.1802,"z":21.361324}      
+airport   Rotation: new Vector3(0, 0, 146.2307),     JSON: {"x":0.0,"y":0.0,"z":146.2307}    

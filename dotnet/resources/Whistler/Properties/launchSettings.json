@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Whistler": {
+      "commandName": "Executable",
+      "executablePath": "F:\\new\\whistler\\ragemp-server.exe",
+      "workingDirectory": "F:\\new\\whistler"
+    }
+  }
+}

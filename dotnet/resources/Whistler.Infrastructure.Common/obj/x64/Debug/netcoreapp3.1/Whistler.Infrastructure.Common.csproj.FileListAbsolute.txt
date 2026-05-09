@@ -1,0 +1,10 @@
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.Common\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.deps.json
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.Common\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.Common\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.Common\obj\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.csproj.AssemblyReference.cache
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.Common\obj\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.Common\obj\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.AssemblyInfoInputs.cache
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.Common\obj\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.AssemblyInfo.cs
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.Common\obj\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.csproj.CoreCompileInputs.cache
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.Common\obj\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+C:\ASTRO\dotnet\resources\Whistler.Infrastructure.Common\obj\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
