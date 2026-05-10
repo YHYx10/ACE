@@ -1,7 +1,7 @@
 ﻿{
     "ConnectionStrings": {
-        "DefaultConnection": "server=127.0.0.1;uid=root;pwd=;port=3306;database=aqua;password=",
-        "WhistlerConnection": "server=127.0.0.1;uid=root;pwd=;port=3306;database=aqua;password="
+        "DefaultConnection": "server=127.0.0.1;uid=root;pwd=;port=3306;database=ace;password=",
+        "WhistlerConnection": "server=127.0.0.1;uid=root;pwd=;port=3306;database=ace;password="
     },
     "MailService": {
         "Url": "https://admin.gta5pixel.com"
@@ -29,7 +29,7 @@
         "Server": "127.0.0.1",
         "User": "root",
         "Password": "",
-        "DataBase": "aqua",
+        "DataBase": "ace",
         "SSL": "SslMode=None;",
         "Port": 3306
     },

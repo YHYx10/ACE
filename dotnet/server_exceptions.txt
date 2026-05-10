@@ -1,0 +1,71 @@
+
+==================[09/05/2026 11:38:12]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'acelogs.itemslog' doesn't exist
+   at void System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+=========================================================
+
+==================[09/05/2026 11:38:12]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'acelogs.itemslog' doesn't exist
+ ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'acelogs.itemslog' doesn't exist
+   at async Task MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in /_/src/MySqlConnector/Core/ResultSet.cs:line 51
+   at void MySql.Data.MySqlClient.MySqlDataReader.ActivateResultSet() in /_/src/MySqlConnector/MySql.Data.MySqlClient/MySqlDataReader.cs:line 130
+=========================================================
+
+==================[09/05/2026 11:38:12]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'acelogs.itemslog' doesn't exist
+ ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'acelogs.itemslog' doesn't exist
+   at async Task MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in /_/src/MySqlConnector/Core/ResultSet.cs:line 51
+   at void MySql.Data.MySqlClient.MySqlDataReader.ActivateResultSet() in /_/src/MySqlConnector/MySql.Data.MySqlClient/MySqlDataReader.cs:line 130
+   at async Task<MySqlDataReader> MySql.Data.MySqlClient.MySqlDataReader.CreateAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, IDictionary<string, CachedProcedure> cachedProcedures, IMySqlCommand command, CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySql.Data.MySqlClient/MySqlDataReader.cs:line 391
+=========================================================
+
+==================[09/05/2026 11:38:12]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'acelogs.itemslog' doesn't exist
+ ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'acelogs.itemslog' doesn't exist
+   at async Task MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in /_/src/MySqlConnector/Core/ResultSet.cs:line 51
+   at void MySql.Data.MySqlClient.MySqlDataReader.ActivateResultSet() in /_/src/MySqlConnector/MySql.Data.MySqlClient/MySqlDataReader.cs:line 130
+   at async Task<MySqlDataReader> MySql.Data.MySqlClient.MySqlDataReader.CreateAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, IDictionary<string, CachedProcedure> cachedProcedures, IMySqlCommand command, CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySql.Data.MySqlClient/MySqlDataReader.cs:line 391
+   at void System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+=========================================================
+
+==================[09/05/2026 11:38:12]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'acelogs.itemslog' doesn't exist
+ ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'acelogs.itemslog' doesn't exist
+   at async Task MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in /_/src/MySqlConnector/Core/ResultSet.cs:line 51
+   at void MySql.Data.MySqlClient.MySqlDataReader.ActivateResultSet() in /_/src/MySqlConnector/MySql.Data.MySqlClient/MySqlDataReader.cs:line 130
+   at async Task<MySqlDataReader> MySql.Data.MySqlClient.MySqlDataReader.CreateAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, IDictionary<string, CachedProcedure> cachedProcedures, IMySqlCommand command, CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySql.Data.MySqlClient/MySqlDataReader.cs:line 391
+   at async Task<MySqlDataReader> MySqlConnector.Core.CommandExecutor.ExecuteReaderAsync(IReadOnlyList<IMySqlCommand> commands, ICommandPayloadCreator payloadCreator, CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/CommandExecutor.cs:line 62
+   at void System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+=========================================================
+
+==================[09/05/2026 11:38:12]==================
+System.TypeInitializationException: The type initializer for 'Whistler.Inventory.InventoryService' threw an exception.
+ ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'acelogs.itemslog' doesn't exist
+ ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'acelogs.itemslog' doesn't exist
+   at async Task MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in /_/src/MySqlConnector/Core/ResultSet.cs:line 51
+   at void MySql.Data.MySqlClient.MySqlDataReader.ActivateResultSet() in /_/src/MySqlConnector/MySql.Data.MySqlClient/MySqlDataReader.cs:line 130
+   at async Task<MySqlDataReader> MySql.Data.MySqlClient.MySqlDataReader.CreateAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, IDictionary<string, CachedProcedure> cachedProcedures, IMySqlCommand command, CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySql.Data.MySqlClient/MySqlDataReader.cs:line 391
+   at async Task<MySqlDataReader> MySqlConnector.Core.CommandExecutor.ExecuteReaderAsync(IReadOnlyList<IMySqlCommand> commands, ICommandPayloadCreator payloadCreator, CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/CommandExecutor.cs:line 62
+   at MySqlDataReader MySql.Data.MySqlClient.MySqlCommand.ExecuteReader() in /_/src/MySqlConnector/MySql.Data.MySqlClient/MySqlCommand.cs:line 72
+   at DataTable Whistler.SDK.MySQL.QueryRead(MySqlCommand command)
+   at DataTable Whistler.SDK.MySQL.QueryRead(string command)
+   at int Whistler.Core.GameLog.GetItemLastId()
+   at int Whistler.Inventory.Models.BaseItem.get_NextItemId()
+   at new Whistler.Inventory.Models.BaseItem(ItemNames name, int count, bool promo, bool temporary)
+   at new Whistler.Inventory.Models.ClothesBase(ItemNames name, bool promo, bool temporary)
+   at new Whistler.Inventory.Models.Clothes(ItemNames name, bool gender, int drawable, int texture, bool promo, bool temporary)
+   at static Whistler.Inventory.InventoryService()
+   --- End of inner exception stack trace ---
+   at new Whistler.Voice.Radio.RadioEvents()
+=========================================================
+
+==================[09/05/2026 11:38:12]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.TypeInitializationException: The type initializer for 'Whistler.Inventory.InventoryService' threw an exception.
+ ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'acelogs.itemslog' doesn't exist
+ ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'acelogs.itemslog' doesn't exist
+   at async Task MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in /_/src/MySqlConnector/Core/ResultSet.cs:line 51
+   at void MySql.Data.MySqlClient.MySqlDataReader.ActivateResultSet() in /_/src/MySqlConnector/MySql.Data.MySqlClient/MySqlDataReader.cs:line 130
+   at async Task<MySqlDataReader> MySql.Data.MySqlClient.MySqlDataReader.CreateAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, IDictionary<string, CachedProcedure> cachedProcedures, IMySqlCommand command, CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySql.Data.MySqlClient/MySqlDataReader.cs:line 391
+   at async Task<MySqlDataReader> MySqlConnector.Core.CommandExecutor.ExecuteReaderAsync(IReadOnlyList<IMySqlCommand> commands, ICommandPayloadCreator payloadCreator, CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/CommandExecutor.cs:line 62
+   at My
