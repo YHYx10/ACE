@@ -7,3 +7,12 @@ C:\ASTRO\dotnet\resources\Whistler.Domain\obj\x64\Debug\netcoreapp3.1\Whistler.D
 C:\ASTRO\dotnet\resources\Whistler.Domain\obj\x64\Debug\netcoreapp3.1\Whistler.Domain.csproj.CoreCompileInputs.cache
 C:\ASTRO\dotnet\resources\Whistler.Domain\obj\x64\Debug\netcoreapp3.1\Whistler.Domain.dll
 C:\ASTRO\dotnet\resources\Whistler.Domain\obj\x64\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Domain\bin\x64\Debug\netcoreapp3.1\Whistler.Domain.deps.json
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Domain\bin\x64\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Domain\bin\x64\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Domain\obj\x64\Debug\netcoreapp3.1\Whistler.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Domain\obj\x64\Debug\netcoreapp3.1\Whistler.Domain.AssemblyInfoInputs.cache
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Domain\obj\x64\Debug\netcoreapp3.1\Whistler.Domain.AssemblyInfo.cs
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Domain\obj\x64\Debug\netcoreapp3.1\Whistler.Domain.csproj.CoreCompileInputs.cache
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Domain\obj\x64\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Domain\obj\x64\Debug\netcoreapp3.1\Whistler.Domain.pdb

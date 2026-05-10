@@ -13,10 +13,41 @@ let maps = [];
 
 const { reloadMaps } = require('../rage-builder-maps');
 
-mp.events.add('packagesLoaded', () =>
-{
-    loadMapsList();
-});
+if (isMpAvailable()) {
+    mp.events.add('packagesLoaded', () =>
+    {
+        loadMapsList();
+    });
+
+    mp.events.addCommand("builder", (player ) => {
+        player.call('playerStartMapEditor', [ maps ]);
+    });
+
+
+    mp.events.add("server:mapOpen", (player, mapName) => {
+        mapOpen(player, mapName);
+        reloadMaps(mapName);
+    });
+
+    mp.events.add("server:mapNew", () => {
+        reloadMaps();
+    });
+
+    mp.events.add("server:exitBuilder", () => {
+        reloadMaps();
+    });
+
+    mp.events.add("server:mapSave", (player, mapName, mapObjectsJson) => {
+
+        fs.writeFile(__dirname + `/../rage-builder-maps/${mapName}.json`, mapObjectsJson, function(err){
+            if(err)throw err;
+            addMapsListItem(mapName);
+            player.call('client:mapSaved', [maps]);
+            console.log(`[BUILDER] Map saved: ${mapName}`);
+        });
+
+    });
+}
 
 function loadMapsList(){
     fs.readdir(__dirname + '/../rage-builder-maps/', (err, files) => {
@@ -33,24 +64,6 @@ function addMapsListItem(mapName){
     }
 }
 
-mp.events.addCommand("builder", (player ) => {
-    player.call('playerStartMapEditor', [ maps ]);
-});
-
-
-mp.events.add("server:mapOpen", (player, mapName) => {
-    mapOpen(player, mapName);
-    reloadMaps(mapName);
-});
-
-mp.events.add("server:mapNew", () => {
-    reloadMaps();
-});
-
-mp.events.add("server:exitBuilder", () => {
-    reloadMaps();
-});
-
 function mapOpen(player, mapName){
     fs.readFile( __dirname + `/../rage-builder-maps/${mapName}.json`, 'utf8', function(err,data){
         if(err){
@@ -62,13 +75,6 @@ function mapOpen(player, mapName){
     });
 }
 
-mp.events.add("server:mapSave", (player, mapName, mapObjectsJson) => {
-
-    fs.writeFile(__dirname + `/../rage-builder-maps/${mapName}.json`, mapObjectsJson, function(err){
-        if(err)throw err;
-        addMapsListItem(mapName);
-        player.call('client:mapSaved', [maps]);
-        console.log(`[BUILDER] Map saved: ${mapName}`);
-    });
-
-});
+function isMpAvailable(){
+    return typeof mp !== 'undefined' && mp && mp.events;
+}

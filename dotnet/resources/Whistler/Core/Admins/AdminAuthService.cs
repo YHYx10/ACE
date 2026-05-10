@@ -16,6 +16,16 @@ namespace Whistler.Core.Admins
         private const int Pbkdf2Iterations = 100000;
         private const int SaltSize = 16;
         private const int HashSize = 32;
+        private const string CreateAdminUsersTableSql = @"
+CREATE TABLE IF NOT EXISTS `admin_users` (
+    `id` INT AUTO_INCREMENT PRIMARY KEY,
+    `username` VARCHAR(64) NOT NULL UNIQUE,
+    `password_hash` TEXT NOT NULL,
+    `role` VARCHAR(32) NOT NULL,
+    `is_active` TINYINT(1) DEFAULT 1,
+    `created_at` DATETIME DEFAULT CURRENT_TIMESTAMP,
+    `last_login` DATETIME NULL
+);";
         private static readonly WhistlerLogger _logger = new WhistlerLogger(typeof(AdminAuthService));
 
         public static bool IsAdminCandidate(ExtPlayer player)
@@ -71,11 +81,13 @@ namespace Whistler.Core.Admins
                     return;
                 }
 
+                EnsureAdminUsersTable();
+
                 string username = GetUsername(player);
                 DataTable exists = MySQL.QueryRead("SELECT `id` FROM `admin_users` WHERE `username` = @prop0 LIMIT 1", username);
                 if (exists != null && exists.Rows.Count > 0)
                 {
-                    Notify.Send(player, NotifyType.Error, NotifyPosition.BottomCenter, "Admin account already registered. Use /alogin.", 4000);
+                    Notify.Send(player, NotifyType.Error, NotifyPosition.BottomCenter, "Already registered", 4000);
                     return;
                 }
 
@@ -94,7 +106,7 @@ namespace Whistler.Core.Admins
             catch (Exception ex)
             {
                 _logger.WriteError($"Register: {ex}");
-                Notify.Send(player, NotifyType.Error, NotifyPosition.BottomCenter, "Admin registration failed.", 4000);
+                Notify.Send(player, NotifyType.Error, NotifyPosition.BottomCenter, "Admin system initialized, please try again", 5000);
             }
         }
 
@@ -107,6 +119,8 @@ namespace Whistler.Core.Admins
                     Notify.Send(player, NotifyType.Error, NotifyPosition.BottomCenter, "You are not an administrator.", 3000);
                     return;
                 }
+
+                EnsureAdminUsersTable();
 
                 string username = GetUsername(player);
                 DataTable table = MySQL.QueryRead("SELECT `password_hash`, `is_active` FROM `admin_users` WHERE `username` = @prop0 LIMIT 1", username);
@@ -149,6 +163,15 @@ namespace Whistler.Core.Admins
         public static string GetUsername(ExtPlayer player)
         {
             return $"char:{player.Character.UUID}";
+        }
+
+        private static void EnsureAdminUsersTable()
+        {
+            DataTable table = MySQL.QueryRead("SHOW TABLES LIKE 'admin_users'");
+            if (table != null && table.Rows.Count > 0)
+                return;
+
+            MySQL.QuerySync(CreateAdminUsersTableSql);
         }
 
         private static bool IsPasswordValid(string password)

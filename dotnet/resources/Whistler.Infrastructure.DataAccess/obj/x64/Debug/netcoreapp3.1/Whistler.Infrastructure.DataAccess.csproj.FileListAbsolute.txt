@@ -16,3 +16,21 @@ C:\ASTRO\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\x64\Debug\netco
 C:\ASTRO\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
 C:\ASTRO\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
 C:\ASTRO\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.genruntimeconfig.cache
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.deps.json
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.json
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.runtimeconfig.dev.json
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\x64\Debug\netcoreapp3.1\Whistler.Domain.dll
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.dll
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\x64\Debug\netcoreapp3.1\Whistler.Domain.pdb
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Infrastructure.DataAccess\bin\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.Common.pdb
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.AssemblyReference.cache
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.AssemblyInfo.cs
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.csproj.CopyComplete
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.dll
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.pdb
+C:\ACE ROLEPLAY\ACE\dotnet\resources\Whistler.Infrastructure.DataAccess\obj\x64\Debug\netcoreapp3.1\Whistler.Infrastructure.DataAccess.genruntimeconfig.cache
